@@ -1,0 +1,26 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Contact Us
+  url: /contact-us/
+- title: Information For Pawnbrokers
+  url: /information-for-pawnbrokers/forms/
+  sub-links:
+  - title: Forms
+    url: /information-for-pawnbrokers/forms/
+  - title: Anti Money Laundering And Countering The Financing Of Terrorism
+    url: /information-for-pawnbrokers/anti-money-laundering-and-countering-the-financing-of-terrorism/
+  - title: Relevant Laws And Regulations
+    url: /information-for-pawnbrokers/relevant-laws-and-regulations/
+  - title: Statistics
+    url: /information-for-pawnbrokers/statistics/
+- title: Information For Pawners
+  url: /information-for-pawners/list-of-licensed-pawnbrokers-in-singapore/
+  sub-links:
+  - title: List Of Licensed Pawnbrokers In Singapore
+    url: /information-for-pawners/list-of-licensed-pawnbrokers-in-singapore/
+  - title: Unclaimed Monies
+    url: /information-for-pawners/unclaimed-monies/
