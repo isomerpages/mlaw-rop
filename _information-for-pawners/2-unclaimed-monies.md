@@ -53,4 +53,4 @@ c)      Any documentary evidence (e.g. a police report) explaining the circumsta
 </tr>
 </table>
 
-<tr><td> colspan="2">The Registry of Pawnbrokers will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</tr></td>
+<td><tr> colspan="2">The Registry of Pawnbrokers will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td></tr>
