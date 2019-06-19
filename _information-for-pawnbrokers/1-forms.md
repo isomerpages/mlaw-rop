@@ -10,11 +10,11 @@ collection_name: information-for-pawnbrokers
 #### Forms
 ---
 
-[Sample of a Banker's Guarantee (288KB)](/files/BGTemplate(revised2 Apr2019).pdf)
+[Sample of a Banker's Guarantee (288KB)](/files/BGTemplate(revised2Apr2019).pdf)
 
-[Template for Summary of Items Pawned (60KB)](/files/Summaryofitemspawned(version 2.0)(1 Jun 2012)(1).xls)
+[Template for Summary of Items Pawned (60KB)](/files/Summaryofitemspawned(version2.0)(1Jun2012)(1).xls)
 
-[Template for Surpluses Unclaimed (229KB)](/files/Surplusesunclaimed(version 2.0)(1 Jun 2012).xls)
+[Template for Surpluses Unclaimed (229KB)](/files/Surplusesunclaimed(version2.0)(1Jun2012).xls)
 
 [Manager Application From (44KB)](/files/page1(1).pdf)
 
