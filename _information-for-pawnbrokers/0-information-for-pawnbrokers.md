@@ -13,8 +13,8 @@ You are required to apply for a pawnbroker's licence from the Registrar of Pawnb
 
 Before you submit your application, it is advisable that you familiarise yourself with the provisions of the Pawnbrokers Act 2015 and Pawnbrokers Rules 2015, which can be obtained from the following sources:
 
-i) Online at [http://sso.agc.gov.sg](http://sso.agc.gov.sg);<br>
-ii) Toppan Lee Fung Pte. Ltd. Legal Publishing (website:www.toppanleefung.com/webshop)<br><br>
+i)Online at [http://sso.agc.gov.sg](http://sso.agc.gov.sg);<br>
+ii)Toppan Lee Fung Pte. Ltd. Legal Publishing (website:www.toppanleefung.com/webshop)<br><br>
 
 **2. How do I apply for a pawnbroker’s licence?**
 
