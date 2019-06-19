@@ -15,7 +15,7 @@ to view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Sta
 
 **ii. FAQs on Internal Policies, Procedures and Controls Audit Reports**
 
-To view, please click [here](FAQsonPPCaudit.pdf).<br><br>
+To view, please click [here](/files/FAQsonPPCaudit.pdf).<br><br>
 
 **iii. Financial Action Task Force – October 2015 Public Statement: High-risk and Non-cooperative Jurisdictions**
 
@@ -23,11 +23,11 @@ To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Sta
 
 **iv. Notes for Pawnbrokers' Briefing on 16 October 2015**
 
-The slides are in PDF format, to view click [here](AMLCFTNotes.pdf).<br><br>
+The slides are in PDF format, to view click [here](/files/AMLCFTNotes.pdf).<br><br>
 
 **v. Information Guide ("Guide") on The Prevention of Money Laundering and Countering the Financing of Terrorism for Pawnbrokers**
 
-To view the guide, please click [here](InfoGuideforPawnbrokers_3.pdf).<br><br>
+To view the guide, please click [here](/files/InfoGuideforPawnbrokers_3.pdf).<br><br>
 
 **vi. Financial Action Task Force – July 2015 Public Statement: High-risk and Non-cooperative Jurisdictions**
 
@@ -36,4 +36,4 @@ To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Sta
 
 **vii. Singapore National Risk Assessment Report 2013**
 
-The document is in PDF format, to view click [here](SingaporeNRAReport2013_24032015.pdf).<br><br>
+The document is in PDF format, to view click [here](/files/SingaporeNRAReport2013_24032015.pdf).<br><br>
