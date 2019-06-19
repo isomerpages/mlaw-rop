@@ -4,9 +4,9 @@ title: Relevant Laws And Regulations
 permalink: /information-for-pawnbrokers/relevant-laws-and-regulations/
 breadcrumb: Relevant Laws And Regulations
 collection_name: information-for-pawnbrokers
+
 ---
 Relevant Laws and Regulations
-
 ---
 **1. Pawnbrokers Act and Rules**<br>
 A.      For Pawnbrokers Act 2015, please search online at: http://sso.agc.gov.sg ;
