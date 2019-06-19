@@ -5,7 +5,7 @@ permalink: /information-for-pawnbrokers/relevant-laws-and-regulations/
 breadcrumb: Relevant Laws And Regulations
 collection_name: information-for-pawnbrokers
 ---
-Relevant Laws and Regulations<br>
+Relevant Laws and Regulations
 
 ---
 **1. Pawnbrokers Act and Rules**<br>
