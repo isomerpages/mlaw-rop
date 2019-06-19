@@ -41,4 +41,14 @@ Singapore 069118
 Tel: 1800-2255529 (General Enquiries) </td>
 
   </tr>
+  <tr>
+    <td>Step 4</td>
+  <td>Produce the necessary documents according to each of the categories set out below:
+
+a)      The pawn ticket corresponding to the surplus;
+
+b)      A copy of the pawner’s identification documents, and
+
+c)      Any documentary evidence (e.g. a police report) explaining the circumstances if you are unable to furnish any of the above documents or if you are not the pawner.</td>
+</tr>
 </table>
