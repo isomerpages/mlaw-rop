@@ -18,4 +18,4 @@ collection_name: information-for-pawnbrokers
 
 [Manager Application From (44KB)](/files/page1(1).pdf)
 
-[Inter-Bank GIRO (157KB)](/files/PB_03082017_GIROFORM(website_forms).pdf)c
+[Inter-Bank GIRO (157KB)](/files/PB_03082017_GIROFORM(website_forms).pdf)
