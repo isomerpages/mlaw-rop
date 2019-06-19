@@ -6,12 +6,16 @@ breadcrumb: Forms
 collection_name: information-for-pawnbrokers
 ---
 
-[Sample of a Banker's Guarantee (288KB)]()
 
-[Template for Summary of Items Pawned (60KB)]()
+#### Forms
+---
 
-[Template for Surpluses Unclaimed (229KB)]()
+[Sample of a Banker's Guarantee (288KB)](BGTemplate(revised2 Apr2019).pdf)
 
-[Manager Application From (44KB)]()
+[Template for Summary of Items Pawned (60KB)](Summaryofitemspawned(version 2.0)(1 Jun 2012)(1).xls)
 
-[Inter-Bank GIRO (157KB)]()
+[Template for Surpluses Unclaimed (229KB)](Surplusesunclaimed(version 2.0)(1 Jun 2012).xls)
+
+[Manager Application From (44KB)](page1(1).pdf)
+
+[Inter-Bank GIRO (157KB)](PB_03082017_GIROFORM(website_forms).pdf)
