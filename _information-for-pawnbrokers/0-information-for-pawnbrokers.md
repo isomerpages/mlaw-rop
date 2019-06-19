@@ -138,8 +138,8 @@ Please note that a non-refundable application fee of $600/- shall apply regardle
  
  **6. Sale of New Jewellery in Pawnshops**
  
-Interested applicants are strongly advised to send in their applications by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be accompanied by an elaboration on how the applicable licence conditions would be met and supporting documents, similar to the approach taken for the application for a second-hand goods dealing business to be conducted on the pawnbroking business premises.<br><br>    
+Interested applicants are strongly advised to send in their applications by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be accompanied by an elaboration on how the applicable [licence conditions](LicenceConditionsw.e.f01January2017.pdf) would be met and supporting documents, similar to the approach taken for the application for a second-hand goods dealing business to be conducted on the pawnbroking business premises.<br><br>    
  
 **7. How do I make payment when I receive the Notice of Offer of Composition?**
 
-Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached user guide.
+Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](page1.pdf).
