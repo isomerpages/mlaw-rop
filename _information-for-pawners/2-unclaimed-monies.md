@@ -15,6 +15,7 @@ If no demand for the surplus is made within 4 months after the sale, the pawnbro
 
 All unclaimed monies paid to the Accountant-General are transferred to the Consolidated Fund after 6 years unless a claim is made. A claimant may, at any time, make an application for the monies even after they are paid into the Consolidated Fund.
 
-|STEPS TO RECOVER UNCLAIMED MONIES|
+STEPS TO RECOVER UNCLAIMED MONIES
 ---
-Step 1 | Click on the specific listing of unclaimed monies that you want to view.|
+Step 1 | Click on the specific listing of unclaimed monies that you want to view.
+Step 2 | If you locate a record of unclaimed monies due to you, take down the “Year Paid” and “Remarks” stated in the listing.
