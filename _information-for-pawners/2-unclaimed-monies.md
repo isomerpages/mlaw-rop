@@ -52,4 +52,4 @@ b)      A copy of the pawner’s identification documents, and
 c)      Any documentary evidence (e.g. a police report) explaining the circumstances if you are unable to furnish any of the above documents or if you are not the pawner.</td>
 </tr>
 
-<td><tr> colspan="2">The Registry of Pawnbrokers will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td></tr></table>
+<td><td> colspan="2">The Registry of Pawnbrokers will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</tr></td></table>
