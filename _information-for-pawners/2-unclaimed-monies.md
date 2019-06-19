@@ -17,5 +17,5 @@ All unclaimed monies paid to the Accountant-General are transferred to the Conso
 
 STEPS TO RECOVER UNCLAIMED MONIES
 -------|
-Step 1 | Click on the specific listing of unclaimed monies that you want to view.
-Step 2 | If you locate a record of unclaimed monies due to you, take down the “Year Paid” and “Remarks” stated in the listing.
+Step 1 | Click on the specific listing of unclaimed monies that you want to view. |
+Step 2 | If you locate a record of unclaimed monies due to you, take down the “Year Paid” and “Remarks” stated in the listing. |
