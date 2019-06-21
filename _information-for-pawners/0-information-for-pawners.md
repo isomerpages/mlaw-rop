@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Information for Pawners
-permalink: /information-for-pawners/
+permalink: /information-for-pawner/
 breadcrumb: Information for Pawners
 collection_name: information-for-pawners
 
