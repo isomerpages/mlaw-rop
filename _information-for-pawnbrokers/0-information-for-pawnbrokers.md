@@ -9,11 +9,11 @@ collection_name: information-for-pawnbrokers
 
 **1. How do I start a pawnbroking business?**
 
-You are required to apply for a pawnbroker's licence from the Registrar of Pawnbrokers. The online application can be made [HERE](https://licence1.business.gov.sg/).
+You are required to apply for a pawnbroker's licence from the Registrar of Pawnbrokers. The online application can be made [HERE](https://licence1.business.gov.sg/){:target="_blank"}.
 
 Before you submit your application, it is advisable that you familiarise yourself with the provisions of the Pawnbrokers Act 2015 and Pawnbrokers Rules 2015, which can be obtained from the following sources:
 
-i) Online at [http://sso.agc.gov.sg](http://sso.agc.gov.sg);<br>
+i) Online at [http://sso.agc.gov.sg]{:target="_blank"} (http://sso.agc.gov.sg);<br>
 ii) Toppan Lee Fung Pte. Ltd. Legal Publishing (website:www.toppanleefung.com/webshop)<br><br>
 
 **2. How do I apply for a pawnbroker’s licence?**
