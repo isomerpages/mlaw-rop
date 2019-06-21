@@ -142,4 +142,4 @@ Interested applicants are strongly advised to send in their applications by post
  
 **7. How do I make payment when I receive the Notice of Offer of Composition?**
 
-Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](page1.pdf).
+Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](files/page1.pdf).
