@@ -13,8 +13,8 @@ You are required to apply for a pawnbroker's licence from the Registrar of Pawnb
 
 Before you submit your application, it is advisable that you familiarise yourself with the provisions of the Pawnbrokers Act 2015 and Pawnbrokers Rules 2015, which can be obtained from the following sources:
 
-i) Online at [http://sso.agc.gov.sg]{:target="_blank"} (http://sso.agc.gov.sg);<br>
-ii) Toppan Lee Fung Pte. Ltd. Legal Publishing (website:www.toppanleefung.com/webshop)<br><br>
+i) Online at [http://sso.agc.gov.sg]{:target="_blank"} (http://sso.agc.gov.sg){:target="_blank"};<br>
+ii) Toppan Lee Fung Pte. Ltd. Legal Publishing (website:www.toppanleefung.com/webshop){:target="_blank"} <br><br>
 
 **2. How do I apply for a pawnbroker’s licence?**
 
@@ -66,7 +66,7 @@ viii) You are to submit to the Registry your plans for the renovation and fittin
  
 * a computer system for the operations of the pawnshop business. 
  
-ix)    You are to obtain an insurance policy for the entire duration of your licence from an insurance company or co-operative society registered under the [Insurance Act (Chapter 142)](https://sso.agc.gov.sg/Act/IA1966) and carrying on business in Singapore, for loss of and damage to pledges held in your pawnshop premises.
+ix)    You are to obtain an insurance policy for the entire duration of your licence from an insurance company or co-operative society registered under the [Insurance Act (Chapter 142)](https://sso.agc.gov.sg/Act/IA1966){:target="_blank"} and carrying on business in Singapore, for loss of and damage to pledges held in your pawnshop premises.
 
 x)    After the renovations have been completed satisfactorily, you would be required to forward to us the following fees for the issuance of a pawnbroker's licence: 
 
@@ -79,7 +79,7 @@ Please ensure that all the information/documents given in the application are co
 **3. How do I update my company's or licensee's particulars?**
 
 **Update Of Company's/Licensee's Particulars**<br>
-Please submit an online application [HERE](https://licence1.business.gov.sg) for the following update/changes to your company’s/licensee’s particulars:
+Please submit an online application [HERE](https://licence1.business.gov.sg){:target="_blank"} for the following update/changes to your company’s/licensee’s particulars:
 
 
 i) Change of company/business name;
@@ -100,11 +100,11 @@ Please note that for updates (i) to (iv), you are required to submit the online 
 
 For changes relating to (v) and (vi), you are required to notify the Registry of Pawnbrokers by submitting an online application.
 
-A copy of the online application form for the above updates/changes is available [HERE](https://licence1.business.gov.sg/).<br><br>
+A copy of the online application form for the above updates/changes is available [HERE](https://licence1.business.gov.sg/){:target="_blank"}.<br><br>
 
 **4. How do I terminate my pawnbroker’s licence?**
 
-If you wish to terminate your pawnbroker’s licence, you may submit your termination application [HERE](https://licence1.business.gov.sg/).<br><br>
+If you wish to terminate your pawnbroker’s licence, you may submit your termination application [HERE](https://licence1.business.gov.sg/){:target="_blank"}.<br><br>
 
 **5. How do I apply for a waiver certificate from the Pawnbrokers Act?**
 
@@ -138,8 +138,8 @@ Please note that a non-refundable application fee of $600/- shall apply regardle
  
  **6. Sale of New Jewellery in Pawnshops**
  
-Interested applicants are strongly advised to send in their applications by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be accompanied by an elaboration on how the applicable [licence conditions](/files/LicenceConditionsw.e.f01January2017.pdf) would be met and supporting documents, similar to the approach taken for the application for a second-hand goods dealing business to be conducted on the pawnbroking business premises.<br><br>    
+Interested applicants are strongly advised to send in their applications by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be accompanied by an elaboration on how the applicable [licence conditions](/files/LicenceConditionsw.e.f01January2017.pdf){:target="_blank"} would be met and supporting documents, similar to the approach taken for the application for a second-hand goods dealing business to be conducted on the pawnbroking business premises.<br><br>    
  
 **7. How do I make payment when I receive the Notice of Offer of Composition?**
 
-Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](/files/page1.pdf).
+Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](/files/page1.pdf){:target="_blank"}.
