@@ -17,7 +17,7 @@ All unclaimed monies paid to the Accountant-General are transferred to the Conso
 
 <table>
   <tr>
-    <th colspan="2">STEPS TO RECOVER UNCLIMED MONIES</th>
+    <th colspan="2">STEPS TO RECOVER UNCLAIMED MONIES</th>
   </tr>
   <tr>
     <td>Step 1</td>
