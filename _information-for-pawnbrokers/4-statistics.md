@@ -9,4 +9,4 @@ collection_name: information-for-pawnbrokers
 Statistics
 ---
 **Registry Of Pawnbrokers**<br>
-[Statistics on Pawnbrokers for Last 5 Years (119 KB)](https://www.mlaw.gov.sg/content/dam/minlaw/rop/Statistic/Statistics%20on%20Pawnbrokers%20for%20Last%205%20Years%20(2015).pdf)
+[Statistics on Pawnbrokers for Last 5 Years (119 KB)](/files/Statistics_on_Pawnbrokers_for_Last_5_Years(2015).pdf)
