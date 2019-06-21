@@ -39,7 +39,7 @@ The procedures for the application are as follows:
  
 i) Apply to the Accounting & Corporate Regulatory Authority (ACRA) for the incorporation and registration of your proposed pawnshop as a company;
 
-ii) Thereafter, submit your application online HERE. Please note that a non-refundable application fee of $800.00/- will be collected when the application is submitted;
+ii) Thereafter, submit your application online [HERE](https://licence1.business.gov.sg/){:target="_blank"}. Please note that a non-refundable application fee of $800.00/- will be collected when the application is submitted;
 
 iii) If you are incorporating a company for the pawnbroking business, please ensure that the following object clauses are incorporated in the Memorandum of Association of the company:
 
