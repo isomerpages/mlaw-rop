@@ -11,7 +11,7 @@ Anti-Money Laundering and Countering the Financing of Terrorism
 
 **i. Monetary Authority of Singapore's ("MAS") website - Lists of Designated Persons**
 
-to view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx).<br><br>
+To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx).<br><br>
 
 **ii. FAQs on Internal Policies, Procedures and Controls Audit Reports**
 
