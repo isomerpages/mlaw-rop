@@ -34,7 +34,7 @@ If you have documentary proof that you are the rightful owner of the monies, you
 
  
 The Registry of Pawnbrokers<br>
-The URA Centre (East Wing)<br>
+The URA Centre (East Wing)
 45 Maxwell Road<br>        
 #07-11<br>
 Singapore 069118<br>
