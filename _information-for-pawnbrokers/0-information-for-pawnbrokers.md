@@ -15,7 +15,7 @@ Before you submit your application, it is advisable that you familiarise yoursel
 
 i) Online at [http://sso.agc.gov.sg](http://sso.agc.gov.sg){:target="_blank"};<br>
 ii) Toppan Lee Fung Pte. Ltd. Legal Publishing <br>
-(website: [www.toppanleefung.com/webshop](www.toppanleefung.com/webshop){:target="_blank"})<br><br>
+(website: [www2.toppanleefung.com/webshop](https://www2.toppanleefung.com/webshop){:target="_blank"})<br><br>
 
 **2. How do I apply for a pawnbroker’s licence?**
 
