@@ -30,12 +30,12 @@ All unclaimed monies paid to the Accountant-General are transferred to the Conso
   <tr>
       <td>Step 3</td>
     <td>	
-If you have documentary proof that you are the rightful owner of the monies, you may contact the Registry of Pawnbrokers via the following:<br> 
+If you have documentary proof that you are the rightful owner of the monies, you may contact the Registry of Pawnbrokers via the following:<br><br>
 
  
 The Registry of Pawnbrokers<br>
-The URA Centre (East Wing)
-45 Maxwell Road<br>        
+The URA Centre (East Wing)<br>
+45 Maxwell Road<br>
 #07-11<br>
 Singapore 069118<br>
 Tel: 1800-2255529 (General Enquiries) </td>
