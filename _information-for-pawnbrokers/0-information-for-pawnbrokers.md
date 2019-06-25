@@ -129,10 +129,10 @@ Applications may be submitted to the Registry via the following channels:
 
 a) Mail to:
 
-   Registry of Pawnbrokers
-   Ministry of Law
-   45 Maxwell Road
-   #08-11
+   Registry of Pawnbrokers<br>
+   Ministry of Law<br>
+   45 Maxwell Road<br>
+   #08-11<br>
    The URA Centre East Wing
 
 Please note that a non-refundable application fee of $600/- shall apply regardless of the outcome of the application. Payment of the application fee should be made in the form of an account-payee crossed cheque of $600/- in favour of the ‘Accountant-General, Singapore'.<br><br>
