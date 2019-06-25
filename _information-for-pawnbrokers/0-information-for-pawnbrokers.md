@@ -128,7 +128,6 @@ vii) A draft scope of waiver for our consideration.
 Applications may be submitted to the Registry via the following channels:
 
 a) Mail to:
-
    Registry of Pawnbrokers
    Ministry of Law
    45 Maxwell Road
