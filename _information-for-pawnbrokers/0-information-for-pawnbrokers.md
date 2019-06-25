@@ -32,7 +32,7 @@ iv) the applicant has produce to the Registry either a [Banker's Guarantee](/fil
 
 v) proposed pawnshop has a paid-up capital of not less than $2,000,000 (for operators with multiple pawnshops, the minimum paid-up capital for each additional pawnshop is $1,000,000).
 
-Besides the above criteria, a pawnbroker is also required to comply with other conditions which may be imposed by the Registrar from time to time. For example, all the operations of the pawnbroking business shall be computerised, and all the pawnbrokers shall participate in the Interbank GIRO System (IBG) and other cashless mode of electronic receipts and payments.
+Besides the above criteria, a pawnbroker is also required to comply with other conditions which may be imposed by the Registrar from time to time. For example, all the operations of the pawnbroking business shall be computerised, and all the pawnbrokers shall participate in the [Interbank GIRO System (IBG)](/files/PB_03082017_GIROFORM(website_forms).pdf){:target="_blank"} and other cashless mode of electronic receipts and payments.
 
 **Procedure for Application**<br>
 The procedures for the application are as follows:
