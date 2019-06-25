@@ -71,7 +71,7 @@ ix)    You are to obtain an insurance policy for the entire duration of your lic
 
 x)    After the renovations have been completed satisfactorily, you would be required to forward to us the following fees for the issuance of a pawnbroker's licence: 
 
-Security Deposit: $100,000
+Security Deposit: $100,000<br>
 Licence Fee: $3,000 (For each year)
 
 **Processing Time**<br>
