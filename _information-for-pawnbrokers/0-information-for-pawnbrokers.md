@@ -28,7 +28,7 @@ ii) the premises will not be used for the conduct or transaction of any business
 
 iii) the applicant will obtain adequate insurance against damage, theft or loss of articles that may be pawned with him;
 
-iv) the applicant has produce to the Registry either a Banker's Guarantee or Insurance Guarantee for a sum of $100,000 as security for the proper conduct of his business under the licence; and
+iv) the applicant has produce to the Registry either a [Banker's Guarantee](/files/BGTemplate(revised2Apr2019).pdf){:target="_blank"}) or Insurance Guarantee for a sum of $100,000 as security for the proper conduct of his business under the licence; and
 
 v) proposed pawnshop has a paid-up capital of not less than $2,000,000 (for operators with multiple pawnshops, the minimum paid-up capital for each additional pawnshop is $1,000,000).
 
