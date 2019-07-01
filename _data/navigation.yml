@@ -4,8 +4,21 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
+- title: Home
+  url: https://mlaw-rop-staging.netlify.com
+- title: About Us
+  url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-mission-and-core-values.html
+  sub-links:
+  - title: Our Vision, Mission and Core Values
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-mission-and-core-values.html
+  - title: Our Management
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-management.html
+  - title: Organisation Structure
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/organisation-structure.html
+  - title: What We Do
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/what-we-do.html
+  - title: Contact Us
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html
 - title: Information For Pawnbrokers
   url: /information-for-pawnbrokers/forms/
   sub-links:
@@ -24,3 +37,9 @@
     url: /information-for-pawners/list-of-licensed-pawnbrokers-in-singapore/
   - title: Unclaimed Monies
     url: /information-for-pawners/unclaimed-monies/
+- title: eServices
+  url: https://www.mlaw.gov.sg/content/pto/en/wills-registry/forms.html
+- title: News
+  url: https://staging-isomer-mlaw.netlify.com/news/
+- title: Join Us
+  url: https://www.mlaw.gov.sg/content/minlaw/en/join-us/why-join-minlaw.html
