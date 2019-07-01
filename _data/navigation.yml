@@ -6,21 +6,19 @@
 
 - title: Home
   url: https://mlaw-rop-staging.netlify.com
-  
 - title: About Us
-  url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-mission-and-core-values.html
+  url: https://staging-isomer-mlaw.netlify.com/about-us/ourvision-mission-corevalues/
   sub-links:
   - title: Our Vision, Mission and Core Values
-    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-mission-and-core-values.html
+    url: https://staging-isomer-mlaw.netlify.com/about-us/ourvision-mission-corevalues/
   - title: Our Management
-    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-management.html
+    url: https://staging-isomer-mlaw.netlify.com/about-us/our-management/
   - title: Organisation Structure
     url: https://staging-isomer-mlaw.netlify.com/about-us/ourvision-mission-corevalues/
   - title: What We Do
-    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/what-we-do.html
+    url: https://staging-isomer-mlaw.netlify.com/about-us/what-we-do/
   - title: Contact Us
-    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html
-    
+    url: https://staging-isomer-mlaw.netlify.com/contact-us/
 - title: Information For Pawnbrokers
   url: /information-for-pawnbrokers/forms/
   sub-links:
@@ -39,7 +37,6 @@
     url: /information-for-pawners/list-of-licensed-pawnbrokers-in-singapore/
   - title: Unclaimed Monies
     url: /information-for-pawners/unclaimed-monies/
-    
 - title: eServices
   url: https://www.mlaw.gov.sg/content/pto/en/wills-registry/forms.html
 - title: News
