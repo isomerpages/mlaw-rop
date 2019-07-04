@@ -45,4 +45,5 @@ collections:
     output: true
   information-for-pawners:
     output: true
-  resources_name: resource-room
+
+resources_name: resource-room
