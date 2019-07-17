@@ -7,8 +7,7 @@ collection_name: information-for-pawnbrokers
 ---
 
 
-**1. How do I start a pawnbroking business?**
-
+**1. How do I start a pawnbroking business?**<br>
 You are required to apply for a pawnbroker's licence from the Registrar of Pawnbrokers. The online application can be made [HERE](https://licence1.business.gov.sg/){:target="_blank"}.
 
 Before you submit your application, it is advisable that you familiarise yourself with the provisions of the Pawnbrokers Act 2015 and Pawnbrokers Rules 2015, which can be obtained from the following sources:
@@ -17,8 +16,7 @@ i) Online at [http://sso.agc.gov.sg](http://sso.agc.gov.sg){:target="_blank"};<b
 ii) Toppan Lee Fung Pte. Ltd. Legal Publishing <br>
 (website: [www2.toppanleefung.com/webshop](https://www2.toppanleefung.com/webshop){:target="_blank"})<br><br>
 
-**2. How do I apply for a pawnbroker’s licence?**
-
+**2. How do I apply for a pawnbroker’s licence?**<br>
 **Pawnbroker’s Licence Application**<br>
 The following are the criteria for the grant of a pawnbroker's licence: 
 
@@ -77,8 +75,7 @@ Licence Fee: $3,000 (For each year)
 **Processing Time**<br>
 Please ensure that all the information/documents given in the application are correct and in order.  The issuance of a licence may require 3 to 6 months from the time of your application depending on the complexity of your case, the time taken by the Police in their investigations (where applicable) and the time taken to carry out your renovation and fitting out satisfactorily.<br><br>
 
-**3. How do I update my company's or licensee's particulars?**
-
+**3. How do I update my company's or licensee's particulars?**<br>
 **Update Of Company's/Licensee's Particulars**<br>
 Please submit an online application [HERE](https://licence1.business.gov.sg){:target="_blank"} for the following update/changes to your company’s/licensee’s particulars:
 
@@ -103,12 +100,10 @@ For changes relating to (v) and (vi), you are required to notify the Registry of
 
 A copy of the online application form for the above updates/changes is available [HERE](https://licence1.business.gov.sg/){:target="_blank"}.<br><br>
 
-**4. How do I terminate my pawnbroker’s licence?**
-
+**4. How do I terminate my pawnbroker’s licence?**<br>
 If you wish to terminate your pawnbroker’s licence, you may submit your termination application [HERE](https://licence1.business.gov.sg/){:target="_blank"}.<br><br>
 
-**5. How do I apply for a waiver certificate from the Pawnbrokers Act?**
-
+**5. How do I apply for a waiver certificate from the Pawnbrokers Act?**<br>
 Under section 43(1)(a) of the Pawnbrokers Act, a company or other business entity may be granted a waiver from complying with the provisions of the Pawnbrokers Act. There is no prescribed form for the application of a waiver certificate. Applicants are to write to the Registry of Pawnbrokers with the following information and supporting documents:
 
 i) A brief description of the applicant;
@@ -137,10 +132,8 @@ a) Mail to:
 
 Please note that a non-refundable application fee of $600/- shall apply regardless of the outcome of the application. Payment of the application fee should be made in the form of an account-payee crossed cheque of $600/- in favour of the ‘Accountant-General, Singapore'.<br><br>
  
- **6. Sale of New Jewellery in Pawnshops**
- 
+ **6. Sale of New Jewellery in Pawnshops**<br>
 Interested applicants are strongly advised to send in their applications by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be accompanied by an elaboration on how the applicable [licence conditions](/files/LicenceConditionsw.e.f01January2017.pdf){:target="_blank"} would be met and supporting documents, similar to the approach taken for the application for a second-hand goods dealing business to be conducted on the pawnbroking business premises.<br><br>    
  
-**7. How do I make payment when I receive the Notice of Offer of Composition?**
-
+**7. How do I make payment when I receive the Notice of Offer of Composition?**<br>
 Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](/files/page1.pdf){:target="_blank"}.
