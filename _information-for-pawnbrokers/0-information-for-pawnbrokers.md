@@ -30,7 +30,7 @@ iv) the applicant has produce to the Registry either a [Banker's Guarantee](/fil
 
 v) proposed pawnshop has a paid-up capital of not less than $2,000,000 (for operators with multiple pawnshops, the minimum paid-up capital for each additional pawnshop is $1,000,000).
 
-Besides the above criteria, a pawnbroker is also required to comply with other conditions which may be imposed by the Registrar from time to time. For example, all the operations of the pawnbroking business shall be computerised, and all the pawnbrokers shall participate in the [Interbank GIRO System (IBG)](/files/PB_03082017_GIROFORM(website_forms).pdf){:target="_blank"} and other cashless mode of electronic receipts and payments.
+Besides the above criteria, a pawnbroker is also required to comply with other conditions which may be imposed by the Registrar from time to time. For example, all the operations of the pawnbroking business shall be computerised, and all the pawnbrokers shall participate in the [Interbank GIRO System (IBG)](/files/PB_03082017_GIROFORM(website_forms).pdf){:target="_blank"}(157KB) and other cashless mode of electronic receipts and payments.
 
 **Procedure for Application**<br>
 The procedures for the application are as follows:
@@ -133,7 +133,7 @@ a) Mail to:
 Please note that a non-refundable application fee of $600/- shall apply regardless of the outcome of the application. Payment of the application fee should be made in the form of an account-payee crossed cheque of $600/- in favour of the ‘Accountant-General, Singapore'.<br><br>
  
  **6. Sale of New Jewellery in Pawnshops**<br>
-Interested applicants are strongly advised to send in their applications by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be accompanied by an elaboration on how the applicable [licence conditions](/files/LicenceConditionsw.e.f01January2017.pdf){:target="_blank"} would be met and supporting documents, similar to the approach taken for the application for a second-hand goods dealing business to be conducted on the pawnbroking business premises.<br><br>    
+Interested applicants are strongly advised to send in their applications by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be accompanied by an elaboration on how the applicable [licence conditions](/files/LicenceConditionsw.e.f01January2017.pdf){:target="_blank"}(153KB) would be met and supporting documents, similar to the approach taken for the application for a second-hand goods dealing business to be conducted on the pawnbroking business premises.<br><br>    
  
 **7. How do I make payment when I receive the Notice of Offer of Composition?**<br>
-Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](/files/page1.pdf){:target="_blank"}.
+Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](/files/page1.pdf){:target="_blank"}(1.14MB).
