@@ -53,4 +53,4 @@ c)      Any documentary evidence (e.g. a police report) explaining the circumsta
 <tr><td colspan="2">The Registry of Pawnbrokers will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td></tr></table>
 
 **List of Unclaimed Monies**<br>
-[Pawners' Unredeemed Pledges (4 MB)](/files/UnclaimedMoniesMar2019.pdf){:target="_blank"}
+[Pawners' Unredeemed Pledges](/files/UnclaimedMoniesMar2019.pdf){:target="_blank"}(4 MB)
