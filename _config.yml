@@ -32,7 +32,7 @@ feedback_form_url: "https://www.mlaw.gov.sg/eservices/enquiry/"
 
 # FAQ URL
 faq_url: "https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"
-faq_url_external: false
+faq_url_external: true
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
