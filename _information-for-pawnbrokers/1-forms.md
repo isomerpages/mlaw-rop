@@ -12,9 +12,9 @@ Forms
 
 [Sample of a Banker's Guarantee](/files/BGTemplate(revised2Apr2019).pdf){:target="_blank"}(288KB)
 
-[Template for Summary of Items Pawned](/files/Summaryofitemspawned(version2.0)(1Jun2012)(1).xls){:target="_blank"}(60KB)
+[Template for Summary of Items Pawned](/files/Summaryofitemspawned(version2.0)(1Jun2012)(1).xls){:target="_blank"}(XLS, 60KB)
 
-[Template for Surpluses Unclaimed](/files/Surplusesunclaimed(version2.0)(1Jun2012).xls){:target="_blank"}(229KB)
+[Template for Surpluses Unclaimed](/files/Surplusesunclaimed(version2.0)(1Jun2012).xls){:target="_blank"}(XLS, 229KB)
 
 [Manager Application From](/files/page1(1).pdf){:target="_blank"}(44KB)
 
