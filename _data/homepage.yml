@@ -18,7 +18,7 @@ hero-banner: /images/Hero Banner_ROP.jpg
 #Call to Action Button
 button:
   - text: Learn More
-    url: /about-us/
+    url: /about-us/ourvision-mission-corevalues/
     
 key-highlights:
   - title: Relevant Laws and Regulations
