@@ -4,8 +4,6 @@
 #                                #
 ##################################
 
-- title: Home
-  url: /
 - title: About Us
   url: https://staging-isomer-mlaw.netlify.com/about-us/ourvision-mission-corevalues/
   sub-links:
