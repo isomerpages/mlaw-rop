@@ -10,6 +10,12 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/mlaw-logo.png
 
+
+# Google analytics
+
+google-analytics: UA-10405444-16
+
+
 # Hero Banner
 hero-title: Registry of Pawnbrokers
 hero-subtitle: Through the regulating of Licensed Pawnbrokers, the Registry of Pawnbrokers cultivates a safe and professional pawnbroking industry in Singapore
