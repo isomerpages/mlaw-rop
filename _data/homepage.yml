@@ -5,31 +5,36 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-minlaw.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/mlaw-logo.png
+
+
+# Google analytics
+
+google-analytics: UA-10405444-16
+
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-title: Registry of Pawnbrokers
+hero-subtitle: Through the regulating of Licensed Pawnbrokers, the Registry of Pawnbrokers cultivates a safe and professional pawnbroking industry in Singapore
+hero-banner: /images/Hero Banner_ROP.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /information-for-pawnbrokers/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: Relevant Laws and Regulations
+    description: Be equipped with the knowledge of pawnbroking legislation in Singapore
+    url: /information-for-pawnbrokers/relevant-laws-and-regulations/
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+  - title: List of Licensed Pawnbrokers
+    description: Get the latest list of Licensed Pawnbrokers in Singapore
+    url: /information-for-pawners/list-of-licensed-pawnbrokers-in-singapore/
     external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
-
+  - title: Contact Us 
+    description: Find the answers to your questions
+    url: https://www.mlaw.gov.sg/eservices/enquiry
