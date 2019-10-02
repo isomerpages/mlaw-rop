@@ -1,8 +1,8 @@
-title: Ministry of Law - Registry of Prawnbrokers
+title: Ministry of Law - Registry of Pawnbrokers
 title-abbreviated: Title
 description: >- # this means to ignore newlines until "baseurl:"
   Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rop.mlaw.gov.sg"
 
 # Build settings
 markdown: kramdown
