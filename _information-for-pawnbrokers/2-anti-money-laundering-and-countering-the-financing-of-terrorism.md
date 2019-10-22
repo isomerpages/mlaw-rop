@@ -25,7 +25,7 @@ The slides are in PDF format, to view click [here](/files/AMLCFTNotes.pdf){:targ
 To view the guide, please click [here](/files/InfoGuideforPawnbrokers_3.pdf){:target="_blank"}(512KB).<br>
 
 **vi. Financial Action Task Force – July 2015 Public Statement: High-risk and Non-cooperative Jurisdictions** <br>
-To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Anti-Money-Laundering-and-Countering-the-Financing-of-Terrorism/AMLCFT-Announcements/2015/June-FATF-Statement.aspx){:target="_blank"}.<br>
+To view, please click [here](https://www.mas.gov.sg/publications/fatf-statement/2015/june-2015-fatf-statement){:target="_blank"}.<br>
 
 
 **vii. Singapore National Risk Assessment Report 2013** <br>
