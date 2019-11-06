@@ -8,7 +8,7 @@ collection_name: information-for-pawnbrokers
 
 
 **1. How do I start a pawnbroking business?**<br>
-You are required to apply for a pawnbroker's licence from the Registrar of Pawnbrokers. The online application can be made [HERE](https://licence1.business.gov.sg/){:target="_blank"}.
+You are required to apply for a pawnbroker's licence from the Registrar of Pawnbrokers. The online application can be made [HERE](https://www.gobusiness.gov.sg/){:target="_blank"}.
 
 Before you submit your application, it is advisable that you familiarise yourself with the provisions of the Pawnbrokers Act 2015 and Pawnbrokers Rules 2015, which can be obtained from the following sources:
 
@@ -37,7 +37,7 @@ The procedures for the application are as follows:
  
 i) Apply to the Accounting & Corporate Regulatory Authority (ACRA) for the incorporation and registration of your proposed pawnshop as a company;
 
-ii) Thereafter, submit your application online [HERE](https://licence1.business.gov.sg/){:target="_blank"}. Please note that a non-refundable application fee of $800.00/- will be collected when the application is submitted;
+ii) Thereafter, submit your application online [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Please note that a non-refundable application fee of $800.00/- will be collected when the application is submitted;
 
 iii) If you are incorporating a company for the pawnbroking business, please ensure that the following object clauses are incorporated in the Memorandum of Association of the company:
 
@@ -77,7 +77,7 @@ Please ensure that all the information/documents given in the application are co
 
 **3. How do I update my company's or licensee's particulars?**<br>
 **Update Of Company's/Licensee's Particulars**<br>
-Please submit an online application [HERE](https://licence1.business.gov.sg){:target="_blank"} for the following update/changes to your company’s/licensee’s particulars:
+Please submit an online application [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"} for the following update/changes to your company’s/licensee’s particulars:
 
 
 i) Change of company/business name;
@@ -98,10 +98,10 @@ Please note that for updates (i) to (iv), you are required to submit the online 
 
 For changes relating to (v) and (vi), you are required to notify the Registry of Pawnbrokers by submitting an online application.
 
-A copy of the online application form for the above updates/changes is available [HERE](https://licence1.business.gov.sg/){:target="_blank"}.<br><br>
+A copy of the online application form for the above updates/changes is available [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"}.<br><br>
 
 **4. How do I terminate my pawnbroker’s licence?**<br>
-If you wish to terminate your pawnbroker’s licence, you may submit your termination application [HERE](https://licence1.business.gov.sg/){:target="_blank"}.<br><br>
+If you wish to terminate your pawnbroker’s licence, you may submit your termination application [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"}.<br><br>
 
 **5. How do I apply for a waiver certificate from the Pawnbrokers Act?**<br>
 Under section 43(1)(a) of the Pawnbrokers Act, a company or other business entity may be granted a waiver from complying with the provisions of the Pawnbrokers Act. There is no prescribed form for the application of a waiver certificate. Applicants are to write to the Registry of Pawnbrokers with the following information and supporting documents:
