@@ -9,4 +9,4 @@ collection_name: information-for-pawners
 
 List of Licensed Pawnbrokers in Singapore
 ---
-Click [here](/files/List of PBs (as at 1 May 2020).pdf){:target="_blank"} to view the complete list of licensed pawnbrokers in Singapore.
+Click [here](/files/List of PBs (as at 1 June 2020).pdf){:target="_blank"} to view the complete list of licensed pawnbrokers in Singapore.
