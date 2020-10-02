@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Information for Pawners
+title: 'Information for Pawners'
 permalink: /information-for-pawners/
-breadcrumb: Information for Pawners
-collection_name: information-for-pawners
+breadcrumb: 'Information for Pawners'
 
 ---
+
 
 Information for Pawners
 ---
