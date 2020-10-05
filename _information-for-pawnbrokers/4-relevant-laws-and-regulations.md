@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Relevant Laws And Regulations
+title: 'Relevant Laws And Regulations'
 permalink: /information-for-pawnbrokers/relevant-laws-and-regulations/
-breadcrumb: Relevant Laws And Regulations
-collection_name: information-for-pawnbrokers
+breadcrumb: 'Relevant Laws And Regulations'
 
 ---
+
 Relevant Laws and Regulations
 ---
 **1. Pawnbrokers Act and Rules**<br>

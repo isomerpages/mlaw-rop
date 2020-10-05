@@ -1,48 +1,40 @@
-title: Ministry of Law - Registry of Pawnbrokers
-title-abbreviated: Title
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "https://rop.mlaw.gov.sg"
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+title: 'Ministry of Law - Registry of Pawnbrokers'
+description: Description
+url: 'https://rop.mlaw.gov.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: false
-
-# Feedback Form URL
-feedback_form_url: "https://eservices.mlaw.gov.sg/enquiry/"
-
-# FAQ URL
-faq_url: "https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"
-faq_url_external: true
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
 collections:
-  information-for-pawnbrokers:
-    output: true
-  information-for-pawners:
-    output: true
-
+    information-for-pawnbrokers:
+        output: true
+    information-for-pawners:
+        output: true
+favicon: /images/favicon-minlaw.ico
+google-analytics: UA-10405444-16
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
