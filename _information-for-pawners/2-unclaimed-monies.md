@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Unclaimed Monies
+title: 'Unclaimed Monies'
 permalink: /information-for-pawners/unclaimed-monies/
-breadcrumb: Unclaimed Monies
-collection_name: information-for-pawners
+breadcrumb: 'Unclaimed Monies'
 
 ---
+
 
 Unclaimed monies relating to unredeemed pledges auctioned on or before 24 October 2015
 ---

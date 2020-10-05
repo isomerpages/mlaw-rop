@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: AML/CFT Newsletters
+title: 'AML/CFT Newsletters'
 permalink: /information-for-pawnbrokers/aml-cft-newsletters/
-breadcrumb: AML/CFT Newsletters
-collection_name: information-for-pawnbrokers
+breadcrumb: 'AML/CFT Newsletters'
+
 ---
+
 AML/CFT Newsletters
 ---
 ### Issues

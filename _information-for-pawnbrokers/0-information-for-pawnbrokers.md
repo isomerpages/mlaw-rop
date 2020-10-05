@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Information for Pawnbrokers
+title: 'Information for Pawnbrokers'
 permalink: /information-for-pawnbrokers/
-breadcrumb: Information for Pawnbrokers
-collection_name: information-for-pawnbrokers
+breadcrumb: 'Information for Pawnbrokers'
+
 ---
+
 
 
 **1. How do I start a pawnbroking business?**<br>
