@@ -30,3 +30,6 @@ To view, please click [here](https://www.mas.gov.sg/publications/fatf-statement/
 
 **vii. Singapore National Risk Assessment Report 2013** <br>
 The document is in PDF format, to view click [here](/files/SingaporeNRAReport2013_24032015.pdf){:target="_blank"}(988KB).<br>
+
+**viii. The Terrorism Financing National Risk Assessment (TF NRA) 2020** <br>
+The document is in PDF format, to view click [here](/files/1. TF NRA.pdf){:target="_blank"}(988KB).<br>
