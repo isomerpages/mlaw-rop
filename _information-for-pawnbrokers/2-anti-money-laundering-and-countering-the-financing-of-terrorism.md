@@ -27,7 +27,6 @@ To view the guide, please click [here](/files/Info Guide 2020 for Pawnbrokers.pd
 **vi. Financial Action Task Force – July 2015 Public Statement: High-risk and Non-cooperative Jurisdictions** <br>
 To view, please click [here](https://www.mas.gov.sg/publications/fatf-statement/2015/june-2015-fatf-statement){:target="_blank"}.<br>
 
-
 **vii. Singapore National Risk Assessment Report 2013** <br>
 The document is in PDF format, to view click [here](/files/SingaporeNRAReport2013_24032015.pdf){:target="_blank"}(988KB).<br>
 
