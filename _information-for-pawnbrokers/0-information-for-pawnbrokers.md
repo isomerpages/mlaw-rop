@@ -77,7 +77,7 @@ Please ensure that all the information/documents given in the application are co
 
 **3. How do I update my company's or licensee's particulars?**<br>
 **Update Of Company's/Licensee's Particulars**<br>
-Please submit an online application [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"} for the following update/changes to your company’s/licensee’s particulars:
+Please submit an online application [HERE](https://eservices.mlaw.gov.sg/rop/){:target="_blank"} for the following update/changes to your company’s/licensee’s particulars:
 
 
 i) Change of company/business name;
