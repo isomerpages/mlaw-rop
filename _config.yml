@@ -3,38 +3,36 @@ description: Description
 url: 'https://rop.mlaw.gov.sg'
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 exclude:
-    - travis-script.js
-    - .travis.yml
-    - README.md
-    - package.json
-    - package-lock.json
-    - node_modules
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
-    - Gemfile
-    - Gemfile.lock
-collections:
-    information-for-pawnbrokers:
-        output: true
-    information-for-pawners:
-        output: true
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
 favicon: /images/favicon-minlaw.ico
 google-analytics: UA-10405444-16
 permalink: none
 baseurl: ""
 defaults:
-    - scope:
-          path: ""
-      values:
-          layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://mlaw-rop-staging.netlify.app
+prod: https://mlaw-rop-prod.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
