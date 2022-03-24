@@ -1,0 +1,10 @@
+collections:
+  information-for-pawnbrokers:
+    output: true
+    order:
+      - information-for-pawnbrokers.md
+      - forms.md
+      - anti-money-laundering-and-countering-the-financing-of-terrorism.md
+      - aml-cft-newsletters.md
+      - relevant-laws-and-regulations.md
+      - SkillsFuture Fellowships and SkillsFuture Employer Awards 2022.md
