@@ -1,11 +1,8 @@
 ---
-title: 'Unclaimed Monies'
+title: Unclaimed Monies
 permalink: /information-for-pawners/unclaimed-monies/
-breadcrumb: 'Unclaimed Monies'
-
+breadcrumb: Unclaimed Monies
 ---
-
-
 Unclaimed monies relating to unredeemed pledges auctioned on or before 24 October 2015
 ---
 Where a pledge pawned for any sum exceeding $50 is sold for more than the reserve price, being the amount of the loan and interest due, the pawnbroker shall, within 10 days after the sale, inform the pawner by registered post of the amount of surplus realised at the sale.
@@ -52,4 +49,4 @@ c)      Any documentary evidence (e.g. a police report) explaining the circumsta
 <tr><td colspan="2">The Registry of Pawnbrokers will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td></tr></table>
 
 **List of Unclaimed Monies**<br>
-[Pawners' Unredeemed Pledges](/files/Unclaimed Surplus/Unclaimed monies- Sep 21.pdf){:target="_blank"}(4 MB)
+[Pawners' Unredeemed Pledges](/files/Unclaimed Surplus/Unclaimed Monies - May 2022.pdf){:target="_blank"}(4 MB)
