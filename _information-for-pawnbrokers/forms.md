@@ -2,11 +2,7 @@
 title: Forms
 permalink: /information-for-pawnbrokers/forms/
 breadcrumb: Forms
-
 ---
-
-
-
 Forms
 ---
 
@@ -19,3 +15,9 @@ Forms
 [Manager Application Form](/files/page1(1).pdf){:target="_blank"}(44KB)
 
 [Inter-Bank GIRO](/files/PB_03082017_GIROFORM(website_forms).pdf){:target="_blank"}(157KB)
+
+[Notification of Application_display and advertisement](/files/Notification of Application_display and advertisement.docx){:target="_blank"}
+
+[Public Notice for the transfer of pledges](/files/Public Notice for the transfer of pledges.docx){:target="_blank"}
+
+[Transfer of Pledges](/files/Transfer of Pledges.docx){:target="_blank"}
