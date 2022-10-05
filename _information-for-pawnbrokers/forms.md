@@ -18,6 +18,6 @@ Forms
 
 [Notification of Application_display and advertisement](/files/Notification of Application_display and advertisement.docx){:target="_blank"}
 
-[Notification of Application_display and advertisement](/files/Notification of Application_display and advertisement.docx){:target="_blank"}
+[Public Notice for the transfer of pledges](/files/Public Notice for the transfer of pledges.docx){:target="_blank"}
 
 [Notification of Application_display and advertisement](/files/Notification of Application_display and advertisement.docx){:target="_blank"}
