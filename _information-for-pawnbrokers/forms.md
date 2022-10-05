@@ -16,4 +16,4 @@ Forms
 
 [Inter-Bank GIRO](/files/PB_03082017_GIROFORM(website_forms).pdf){:target="_blank"}(157KB)
 
-[Notification of ](/files/Summaryofitemspawned(version2.0)(1Jun2012)(1).xls){:target="_blank"}(XLS, 60KB)
+[Notification of Application_display and advertisement](/files/Notification of Application_display and advertisement.docx){:target="_blank"}(docx, 60KB)
