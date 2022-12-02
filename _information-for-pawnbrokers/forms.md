@@ -20,4 +20,4 @@ Forms
 
 [Public Notice for the transfer of pledges](/files/Public Notice for the transfer of pledges.docx){:target="_blank"}
 
-[Transfer of Pledges](/files/Transfer of Pledges.docx){:target="_blank"}
+[Transfer of Pledges](/files/Transfer of Pledges (as at 2 Dec 2022).docx){:target="_blank"}
