@@ -15,6 +15,6 @@ Please refer to following Registry of Pawnbrokers web-link on how you can check 
 Please refer to this [infographic](/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf){:target="\_blank"} for the permitted modes of serving a notice of forfeiture by a panwbroker.
 
 **4. Are pawnbrokers allow to charge a pawner an administrative fee for a pawn ticket?**<br>
-Yes, pawnbrokers that offer <b>cashless payment modes*</b> may charge a pawner a fee of $2 for each pawn ticket issued. Please refer to this [infographic](/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf){:target="\_blank"} for more information.<br>
+Yes, pawnbrokers that offer <u>cashless payment modes</u>* may charge a pawner a fee of $2 for each pawn ticket issued. Please refer to this [infographic](/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf){:target="\_blank"} for more information.<br>
 
-<b>*Credit facilities (e.g. credit cards) are excluded.<b>
+<sub>*Credit facilities (e.g. credit cards) are excluded.</sub>
