@@ -1,12 +1,8 @@
 ---
-title: 'Information for Pawnbrokers'
+title: Information for Pawnbrokers
 permalink: /information-for-pawnbrokers/
-breadcrumb: 'Information for Pawnbrokers'
-
+breadcrumb: Information for Pawnbrokers
 ---
-
-
-
 **1. How do I start a pawnbroking business?**<br>
 You are required to apply for a pawnbroker's licence from the Registrar of Pawnbrokers. The online application can be made [HERE](https://www.gobusiness.gov.sg/){:target="_blank"}.
 
@@ -136,4 +132,15 @@ Please note that a non-refundable application fee of $600/- shall apply regardle
 Interested applicants are strongly advised to send in their applications by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be accompanied by an elaboration on how the applicable [licence conditions](/files/ROP-licence-conditions-wef-28-Sep-2018.pdf){:target="_blank"}(153KB) would be met and supporting documents, similar to the approach taken for the application for a second-hand goods dealing business to be conducted on the pawnbroking business premises.<br><br>    
  
 **7. How do I make payment when I receive the Notice of Offer of Composition?**<br>
-Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](/files/page1.pdf){:target="_blank"}(1.14MB).
+Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](/files/page1.pdf){:target="_blank"}(1.14MB).<br><br>
+
+**8. Modes of service for Notice of Forfeiture and fee for the issuance of each pawn ticket**<br>
+With effect from 1 January 2023, Pawnbrokers are permitted to impose a fee of $2 for each pawn ticket issued and to send the Notice of Forfeiture to pawners via the following additional manners: <br><br>
+(a) In person; <br><br>
+(b) SMS to the telephone number of the pawner stated on the pawn ticket; or <br><br>
+(c) Provided the pawner consents in writing, by electronic communication using internet-based service. For instance, via WhatsApp or the pawnbroker’s own website / mobile application, if the website or application has a mechanism for the pawner to receive electronic communications through the pawner’s account. <br>
+<br>
+Please refer to the following infographic for ease of reference:
+<p>
+<img src="/images/Infographic on Digitalisation in the Pawnbroking Sector.jpg">
+<p>
