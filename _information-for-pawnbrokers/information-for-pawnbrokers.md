@@ -142,5 +142,5 @@ With effect from 1 January 2023, Pawnbrokers are permitted to impose a fee of $2
 <br>
 Please refer to the following infographic for ease of reference:
 <p>
-<img src="/images/Infographic on Digitalisation in the Pawnbroking Sector.jpg"></a>
+<img src="/images/Infographic on Digitalisation in the Pawnbroking Sector.jpg">
 <p>
