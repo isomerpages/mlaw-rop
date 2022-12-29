@@ -18,3 +18,6 @@ With effect from 1 January 2023, Pawnbrokers are permitted to impose a fee of $2
 (c) Provided the pawner consents in writing, by electronic communication using internet-based service. For instance, via WhatsApp or the pawnbroker’s own website / mobile application, if the website or application has a mechanism for the pawner to receive electronic communications through the pawner’s account. <br>
 <br>
 Please refer to the following infographic for ease of reference:
+<p>
+<img src="/images/SFAward.jpg"></a>
+<p>
