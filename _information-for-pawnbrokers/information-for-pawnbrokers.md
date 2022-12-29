@@ -135,7 +135,7 @@ Interested applicants are strongly advised to send in their applications by post
 Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](/files/page1.pdf){:target="_blank"}(1.14MB).<br><br>
 
 **8. What are the modes a pawnbroker may serve a notice of forfeiture?**<br>
-Please refer to this [infographic](/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf){:target="\_blank"} for the permitted modes of serving a notice of forfeiture by a pawnbroker.
+Please refer to this [infographic](/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf){:target="\_blank"} for the permitted modes of serving a notice of forfeiture by a pawnbroker.<br><br>
 
 **9. Are pawnbrokers allow to charge a pawner an administrative fee for a pawn ticket?**<br>
 Yes, pawnbrokers that offer <u>cashless payment modes</u>* may charge a pawner a fee of $2 for each pawn ticket issued. Please refer to this [infographic](/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf){:target="\_blank"} for more information.<br>
