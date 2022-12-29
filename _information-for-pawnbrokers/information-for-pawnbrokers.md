@@ -135,10 +135,10 @@ Interested applicants are strongly advised to send in their applications by post
 Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](/files/page1.pdf){:target="_blank"}(1.14MB).<br><br>
 
 **8. Modes of service for Notice of Forfeiture and fee for the issuance of each pawn ticket**<br>
-With effect from 1 January 2023, Pawnbrokers are permitted to impose a fee of $2 for each pawn ticket issued and to send the Notice of Forfeiture to pawners via the following additional manners: <br><br>
+With effect from 1 January 2023, Pawnbrokers are permitted to impose a fee of $2 for each pawn ticket issued and to send the Notice of Forfeiture to pawners via the following additional modes: <br><br>
 (a) In person; <br><br>
 (b) SMS to the telephone number of the pawner stated on the pawn ticket; or <br><br>
-(c) Provided the pawner consents in writing, by electronic communication using internet-based service. For instance, via WhatsApp or the pawnbroker’s own website / mobile application, if the website or application has a mechanism for the pawner to receive electronic communications through the pawner’s account. <br>
+(c) By electronic communication using internet-based service, provided the pawner consents in writing. For instance, via WhatsApp or the pawnbroker’s own website / mobile application, if the website or application has a mechanism for the pawner to receive electronic communications through the pawner’s account. <br>
 <br>
 Please refer to the following infographic for ease of reference:
 <p>
