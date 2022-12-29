@@ -11,13 +11,5 @@ With the enactment of the Pawnbrokers Act 2015 on 1 April 2015, pledges taken in
 **2. How do I know if I have unclaimed surplus due to me pursuant to the repealed Pawnbrokers Act, and how do I get the surplus back?**<br>
 Please refer to following Registry of Pawnbrokers web-link on how you can check if there are any [unclaimed monies](/information-for-pawners/unclaimed-monies/){:target="_blank"} due to you and the steps to recover them.
 
-**3. Modes of service for Notice of Forfeiture and fee for the issuance of each pawn ticket**<br>
-With effect from 1 January 2023, Pawnbrokers are permitted to impose a fee of $2 for each pawn ticket issued and to send the Notice of Forfeiture to pawners via the following additional modes: <br><br>
-(a) In person; <br><br>
-(b) SMS to the telephone number of the pawner stated on the pawn ticket; or <br><br>
-(c) By electronic communication using internet-based service, provided the pawner consents in writing. For instance, via WhatsApp or the pawnbroker’s own website / mobile application, if the website or application has a mechanism for the pawner to receive electronic communications through the pawner’s account. <br>
-<br>
-Please refer to the following infographic for ease of reference:
-<p>
-<img src="/images/Infographic on Digitalisation in the Pawnbroking Sector.jpg">
-<p>
+**3. What are the modes a pawnbroker may serve a notice of forfeiture?**<br>
+Please refer to this [infographic](/information-for-pawners/unclaimed-monies/){:target="_blank"} for the permitted modes of serving a notice of forfeiture by a panwbroker.
