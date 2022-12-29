@@ -1,7 +1,7 @@
 ---
-title: List Of Licensed Pawnbrokers In Singapore
+title: List of Licensed Pawnbrokers In Singapore
 permalink: /information-for-pawners/list-of-licensed-pawnbrokers-in-singapore/
-breadcrumb: List Of Licensed Pawnbrokers In Singapore
+breadcrumb: List of Licensed Pawnbrokers In Singapore
 ---
 List of Licensed Pawnbrokers in Singapore
 ---
