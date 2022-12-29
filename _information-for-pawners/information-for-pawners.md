@@ -12,4 +12,4 @@ With the enactment of the Pawnbrokers Act 2015 on 1 April 2015, pledges taken in
 Please refer to following Registry of Pawnbrokers web-link on how you can check if there are any [unclaimed monies](/information-for-pawners/unclaimed-monies/){:target="_blank"} due to you and the steps to recover them.
 
 **3. What are the modes a pawnbroker may serve a notice of forfeiture?**<br>
-Please refer to this [infographic](/information-for-pawners/unclaimed-monies/){:target="_blank"} for the permitted modes of serving a notice of forfeiture by a panwbroker.
+Please refer to this [infographic](/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf){:target="\_blank"} for the permitted modes of serving a notice of forfeiture by a panwbroker.
