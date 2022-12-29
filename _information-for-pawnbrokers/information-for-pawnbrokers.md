@@ -134,13 +134,10 @@ Interested applicants are strongly advised to send in their applications by post
 **7. How do I make payment when I receive the Notice of Offer of Composition?**<br>
 Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](/files/page1.pdf){:target="_blank"}(1.14MB).<br><br>
 
-**8. Modes of service for Notice of Forfeiture and fee for the issuance of each pawn ticket**<br>
-With effect from 1 January 2023, Pawnbrokers are permitted to impose a fee of $2 for each pawn ticket issued and to send the Notice of Forfeiture to pawners via the following additional manners: <br><br>
-(a) In person; <br><br>
-(b) SMS to the telephone number of the pawner stated on the pawn ticket; or <br><br>
-(c) Provided the pawner consents in writing, by electronic communication using internet-based service. For instance, via WhatsApp or the pawnbroker’s own website / mobile application, if the website or application has a mechanism for the pawner to receive electronic communications through the pawner’s account. <br>
-<br>
-Please refer to the following infographic for ease of reference:
-<p>
-<img src="/images/Infographic on Digitalisation in the Pawnbroking Sector.jpg">
-<p>
+**8. What are the modes a pawnbroker may serve a notice of forfeiture?**<br>
+Please refer to this [infographic](/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf){:target="\_blank"} for the permitted modes of serving a notice of forfeiture by a pawnbroker.<br><br>
+
+**9. Are pawnbrokers allow to charge a pawner an administrative fee for a pawn ticket?**<br>
+Yes, pawnbrokers that offer <u>cashless payment modes</u>* may charge a pawner a fee of $2 for each pawn ticket issued. Please refer to this [infographic](/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf){:target="\_blank"} for more information.<br>
+
+<sub>*Credit facilities (e.g. credit cards) are excluded.</sub>
