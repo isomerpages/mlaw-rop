@@ -31,7 +31,7 @@ Besides the above criteria, a pawnbroker is also required to comply with other c
 **Procedure for Application**<br>
 The procedures for the application are as follows:
  
-i) Apply to the Accounting & Corporate Regulatory Authority (ACRA) for the incorporation and registration of your proposed pawnshop as a company;
+i) Apply to the Accounting &amp; Corporate Regulatory Authority (ACRA) for the incorporation and registration of your proposed pawnshop as a company;
 
 ii) Thereafter, submit your application online [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Please note that a non-refundable application fee of $800.00/- will be collected when the application is submitted;
 
@@ -132,7 +132,7 @@ Please note that a non-refundable application fee of $600/- shall apply regardle
 Interested applicants are strongly advised to send in their applications by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be accompanied by an elaboration on how the applicable [licence conditions](/files/ROP-licence-conditions-wef-28-Sep-2018.pdf){:target="_blank"}(153KB) would be met and supporting documents, similar to the approach taken for the application for a second-hand goods dealing business to be conducted on the pawnbroking business premises.<br><br>    
  
 **7. How do I make payment when I receive the Notice of Offer of Composition?**<br>
-Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the attached [user guide](/files/page1.pdf){:target="_blank"}(1.14MB).<br><br>
+Payment for the Notice of Offer of Composition can be made via our [E-Services](https://eservices.mlaw.gov.sg/rop/) portal.<br><br>
 
 **8. What are the modes a pawnbroker may serve a notice of forfeiture?**<br>
 Please refer to this [infographic](/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf){:target="\_blank"} for the permitted modes of serving a notice of forfeiture by a pawnbroker.<br><br>
