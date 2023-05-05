@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Fellowships and SkillsFuture Employer Awards 2022
-permalink: /information-for-pawnbrokers/SkillsFuture-Fellowships-and-SkillsFuture-Employer-Awards-2022/
+permalink: /information-for-pawnbrokers/skillsfuture-fellowships-and-skillsfuture-employer-awards-2022/
 breadcrumb: 'SkillsFuture Fellowships and SkillsFuture Employer Awards 2022'
 
 ---
