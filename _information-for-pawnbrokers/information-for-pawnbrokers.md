@@ -132,7 +132,7 @@ Please note that a non-refundable application fee of $600/- shall apply regardle
 Interested applicants are strongly advised to send in their applications by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be accompanied by an elaboration on how the applicable [licence conditions](/files/ROP-licence-conditions-wef-28-Sep-2018.pdf){:target="_blank"}(153KB) would be met and supporting documents, similar to the approach taken for the application for a second-hand goods dealing business to be conducted on the pawnbroking business premises.<br><br>    
  
 **7. How do I make payment when I receive the Notice of Offer of Composition?**<br>
-Payment for the Notice of Offer of Composition can be made via our [E-Services](https://eservices.mlaw.gov.sg/rom/) portal.<br><br>
+Payment for the Notice of Offer of Composition can be made via our [E-Services](https://eservices.mlaw.gov.sg/rop/) portal.<br><br>
 
 **8. What are the modes a pawnbroker may serve a notice of forfeiture?**<br>
 Please refer to this [infographic](/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf){:target="\_blank"} for the permitted modes of serving a notice of forfeiture by a pawnbroker.<br><br>
