@@ -5,4 +5,4 @@ breadcrumb: List of Licensed Pawnbrokers In Singapore
 ---
 List of Licensed Pawnbrokers in Singapore
 ---
-Click [here](/files/List of PBs/2023/list of pbs as at 1 august 2023.pdf){:target="_blank"} to view the complete list of licensed pawnbrokers in Singapore.
+Click [here](/files/List of PBs/2023/list of pbs as at 1 august 2023 (updated).pdf){:target="_blank"} to view the complete list of licensed pawnbrokers in Singapore.
