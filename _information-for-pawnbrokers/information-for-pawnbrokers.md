@@ -2,9 +2,10 @@
 title: Information for Pawnbrokers
 permalink: /information-for-pawnbrokers/
 breadcrumb: Information for Pawnbrokers
+variant: markdown
 ---
 **1. How do I start a pawnbroking business?**<br>
-You are required to apply for a pawnbroker's licence from the Registrar of Pawnbrokers. The online application can be made [HERE](https://www.gobusiness.gov.sg/){:target="_blank"}.
+You are required to apply for a pawnbroker's licence from the Registrar of Pawnbrokers ("**Registrar**"). The online application can be made [HERE](https://www.gobusiness.gov.sg/){:target="_blank"}.
 
 Before you submit your application, it is advisable that you familiarise yourself with the provisions of the Pawnbrokers Act 2015 and Pawnbrokers Rules 2015, which can be obtained from the following sources:
 
@@ -22,7 +23,7 @@ ii) the premises will not be used for the conduct or transaction of any business
 
 iii) the applicant will obtain adequate insurance against damage, theft or loss of articles that may be pawned with him;
 
-iv) the applicant has produce to the Registry either a [Banker's Guarantee](/files/BGTemplate(revised2Apr2019).pdf){:target="_blank"} or Insurance Guarantee for a sum of $100,000 as security for the proper conduct of his business under the licence; and
+iv) the applicant has produce to the Registry of Pawnbrokers ("**Registry**") either a [Banker's Guarantee](/files/BGTemplate(revised2Apr2019).pdf){:target="_blank"} or Insurance Guarantee for a sum of $100,000 as security for the proper conduct of his business under the licence; and
 
 v) proposed pawnshop has a paid-up capital of not less than $2,000,000 (for operators with multiple pawnshops, the minimum paid-up capital for each additional pawnshop is $1,000,000).
 
@@ -33,7 +34,7 @@ The procedures for the application are as follows:
  
 i) Apply to the Accounting &amp; Corporate Regulatory Authority (ACRA) for the incorporation and registration of your proposed pawnshop as a company;
 
-ii) Thereafter, submit your application online [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Please note that a non-refundable application fee of $800.00/- will be collected when the application is submitted;
+ii) Thereafter, submit your application online [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Please note that a non-refundable application fee of $800.00/- will be collected when the application is submitted. You may also proceed to paste a ‘Notification of Application’ (one in English and one in Chinese), for a period of three weeks from the date placed, at the main entrance of the proposed pawnshop premises. A sample copy is available at our [website](https://rop.mlaw.gov.sg/files/Notification%20of%20Application_display%20and%20advertisement.docx). Thereafter, you will be required to send to the Registry a copy of the original Notice and photographs showing the notices pasted at the main entrance of the premises;
 
 iii) If you are incorporating a company for the pawnbroking business, please ensure that the following object clauses are incorporated in the Memorandum of Association of the company:
 
@@ -41,11 +42,7 @@ iii) If you are incorporating a company for the pawnbroking business, please ens
 
 iv) Please ensure that the proposed premises can be used for pawnbroking business and the necessary agreement from the owner/lessor has been obtained;
  
-v) Under the Pawnbrokers Rules, upon receipt of the Registry's in-principle approval for grant of a pawnbroker's licence and subject to objections, you are required:
-
-* to advertise, at your own expense, your application in one English and one Chinese newspaper for two consecutive days; 
- 
-* to paste a copy of the advertisement (one in English and one in Chinese), for a period of three weeks from the date of pasting, at the main entrance of the proposed pawnshop premises. The Registry of Pawnbrokers will inform you of the date you are supposed to advertise. Thereafter, you will be required to send to the Registry a copy of the original advertisements and photographs showing the advertisements pasted at the main entrance of the premises.
+v) Under the Pawnbrokers Rules, you are to advertise, at your own expense, an advertisement in one English and one Chinese newspaper for two consecutive days. The Registry will inform you when you are suppose to advertise. A sample copy is available at our [website](https://rop.mlaw.gov.sg/files/Notification%20of%20Application_display%20and%20advertisement.docx). Thereafter, you will be required to send to the Registry a photograph copy of the advertisements published in the respective newspapers;
 
 vi) When required to do so, you are to permit the Registrar or any person authorised in writing by him, any police officer not below the rank of Inspector and any officer authorised in writing in that behalf by the appropriate building authority, to enter and inspect the proposed pawnshop premises;
 
@@ -90,9 +87,9 @@ vi) Change of company / business contact details.
 
  
 
-Please note that for updates (i) to (iv), you are required to submit the online application to seek approval from the Registry of Pawnbrokers before you proceed with the update/changes. Please update this information with ACRA only after receiving the approval from the Registry of Pawnbrokers.
+Please note that for updates (i) to (iv), you are required to submit the online application to seek approval from the Registry before you proceed with the update/changes. Please update this information with ACRA only after receiving the approval from the Registry.
 
-For changes relating to (v) and (vi), you are required to notify the Registry of Pawnbrokers by submitting an online application.
+For changes relating to (v) and (vi), you are required to notify the Registry by submitting an online application.
 
 A copy of the online application form for the above updates/changes is available [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"}.<br><br>
 
@@ -100,7 +97,7 @@ A copy of the online application form for the above updates/changes is available
 If you wish to terminate your pawnbroker’s licence, you may submit your termination application [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"}.<br><br>
 
 **5. How do I apply for a waiver certificate from the Pawnbrokers Act?**<br>
-Under section 43(1)(a) of the Pawnbrokers Act, a company or other business entity may be granted a waiver from complying with the provisions of the Pawnbrokers Act. There is no prescribed form for the application of a waiver certificate. Applicants are to write to the Registry of Pawnbrokers with the following information and supporting documents:
+Under section 43(1)(a) of the Pawnbrokers Act, a company or other business entity may be granted a waiver from complying with the provisions of the Pawnbrokers Act. There is no prescribed form for the application of a waiver certificate. Applicants are to write to the Registry with the following information and supporting documents:
 
 i) A brief description of the applicant;
 
