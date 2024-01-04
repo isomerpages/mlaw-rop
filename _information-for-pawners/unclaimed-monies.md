@@ -2,6 +2,7 @@
 title: Unclaimed Monies
 permalink: /information-for-pawners/unclaimed-monies/
 breadcrumb: Unclaimed Monies
+variant: markdown
 ---
 Unclaimed monies relating to unredeemed pledges auctioned on or before 24 October 2015
 ---
@@ -49,4 +50,4 @@ c)      Any documentary evidence (e.g. a police report) explaining the circumsta
 <tr><td colspan="2">The Registry of Pawnbrokers will check the claimant’s details against the case file to see if the claim is valid and arrange for payment to be made to the claimant once the claim is verified.</td></tr></tbody></table>
 
 **List of Unclaimed Monies**<br>
-[Pawners' Unredeemed Pledges](/files/Unclaimed Surplus/2023 Unclaimed Monies/unclaimed monies - may 2023.pdf){:target="_blank"}(4 MB)
+[Pawners' Unredeemed Pledges](/files/Unclaimed Surplus/2023 Unclaimed Monies/Unclaimed_monies___December_2023.pdf)
