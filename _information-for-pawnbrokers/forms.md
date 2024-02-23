@@ -13,7 +13,7 @@ Forms
 
 [Template for Surpluses Unclaimed](/files/Surplusesunclaimed(version2.0)(1Jun2012).xls){:target="_blank"}(XLS, 229KB)
 
-[Manager Application Form](/files/Appointment of Manager Form/Application_Form_For_Appointment_of_Manager_19_Feb_2024){:target="_blank"}(44KB)
+[Manager Application Form](/files/Appointment of Manager Form/Application_Form_For_Appointment_of_Manager_dated_19_Feb_2024.pdf){:target="_blank"}(44KB)
 
 [Inter-Bank GIRO](/files/PB_03082017_GIROFORM(website_forms).pdf){:target="_blank"}(157KB)
 
