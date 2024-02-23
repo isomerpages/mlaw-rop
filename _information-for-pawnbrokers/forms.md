@@ -17,7 +17,7 @@ Forms
 
 [Inter-Bank GIRO](/files/PB_03082017_GIROFORM(website_forms).pdf){:target="_blank"}(157KB)
 
-[Notification of Application_display and advertisement](/files/Notification of Application_display and advertisement.docx){:target="_blank"}
+[Notification of Application_display and advertisement](/files/Notification_of_Application___For_display_and_advertisement_dated_19_Feb_2024.pdf){:target="_blank"}
 
 [Public Notice for the transfer of pledges](/files/Public Notice for the transfer of pledges.docx){:target="_blank"}
 
