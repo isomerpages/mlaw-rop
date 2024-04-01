@@ -4,7 +4,7 @@ permalink: /information-for-pawnbrokers/
 breadcrumb: Information for Pawnbrokers
 variant: tiptap
 ---
-<p><strong>1. How do I start a pawnbroking business?</strong>
+<p><strong>1. How do I start a pawnbroking business?</strong> 
 <br>You are required to apply for a pawnbroker's licence from the Registrar
 of Pawnbrokers ("<strong>Registrar</strong>"). The online application can
 be made <a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
@@ -17,8 +17,8 @@ Rules 2015, which can be obtained from the following sources:</p>
 <br>
 <br>
 </p>
-<p><strong>2. How do I apply for a pawnbroker’s licence?</strong>
-<br><strong>Pawnbroker’s Licence Application</strong>
+<p><strong>2. How do I apply for a pawnbroker’s licence?</strong> 
+<br><strong>Pawnbroker’s Licence Application</strong> 
 <br>The following are the criteria for the grant of a pawnbroker's licence:</p>
 <p>i) the applicant must be of good character and a fit and proper person
 to carry on the business of pawnbroking;</p>
@@ -38,7 +38,7 @@ other conditions which may be imposed by the Registrar from time to time.
 For example, all the operations of the pawnbroking business shall be computerised,
 and all the pawnbrokers shall participate in the <a href="/files/PB_03082017_GIROFORM(website_forms).pdf" rel="noopener noreferrer nofollow" target="_blank">Interbank GIRO System (IBG)</a> and
 other cashless mode of electronic receipts and payments.</p>
-<p><strong>Procedure for Application</strong>
+<p><strong>Procedure for Application</strong> 
 <br>The procedures for the application are as follows:</p>
 <p>i) Apply to the Accounting &amp; Corporate Regulatory Authority (ACRA)
 for the incorporation and registration of your proposed pawnshop as a company;</p>
@@ -100,7 +100,7 @@ be required to forward to us the following fees for the issuance of a pawnbroker
 licence:</p>
 <p>Security Deposit: $100,000
 <br>Licence Fee: $3,000 (For each year)</p>
-<p><strong>Processing Time</strong>
+<p><strong>Processing Time</strong> 
 <br>Please ensure that all the information/documents given in the application
 are correct and in order. The issuance of a licence may require 3 to 6
 months from the time of your application depending on the complexity of
@@ -110,8 +110,8 @@ out satisfactorily.
 <br>
 <br>
 </p>
-<p><strong>3. How do I update my company's or licensee's particulars?</strong>
-<br><strong>Update Of Company's/Licensee's Particulars</strong>
+<p><strong>3. How do I update my company's or licensee's particulars?</strong> 
+<br><strong>Update Of Company's/Licensee's Particulars</strong> 
 <br>Please submit an online application for the following update/changes to
 your company’s/licensee’s particulars:</p>
 <p>i) Change of company/business name;</p>
@@ -134,13 +134,13 @@ available <a href="https://www.gobusiness.gov.sg/licences" rel="noopener norefer
 <br>
 <br>
 </p>
-<p><strong>4. How do I terminate my pawnbroker’s licence?</strong>
+<p><strong>4. How do I terminate my pawnbroker’s licence?</strong> 
 <br>If you wish to terminate your pawnbroker’s licence, you may submit your
 termination application <a href="https://www.gobusiness.gov.sg/licences" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.
 <br>
 <br>
 </p>
-<p><strong>5. How do I apply for a waiver certificate from the Pawnbrokers Act?</strong>
+<p><strong>5. How do I apply for a waiver certificate from the Pawnbrokers Act?</strong> 
 <br>Under section 43(1)(a) of the Pawnbrokers Act, a company or other business
 entity may be granted a waiver from complying with the provisions of the
 Pawnbrokers Act. There is no prescribed form for the application of a waiver
@@ -170,7 +170,7 @@ in favour of the ‘Accountant-General, Singapore'.
 <br>
 <br>
 </p>
-<p><strong>6. Sale of New Jewellery in Pawnshops</strong>
+<p><strong>6. Sale of New Jewellery in Pawnshops</strong> 
 <br>Interested applicants are strongly advised to send in their applications
 by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be
 accompanied by an elaboration on how the applicable <a href="https://rop.mlaw.gov.sg/files/Licence%20Conditions/Licence_Conditions_19_February_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">licence conditions </a>would
@@ -180,18 +180,18 @@ the pawnbroking business premises.
 <br>
 <br>
 </p>
-<p><strong>7. How do I make payment when I receive the Notice of Offer of Composition?</strong>
+<p><strong>7. How do I make payment when I receive the Notice of Offer of Composition?</strong> 
 <br>Payment for the Notice of Offer of Composition can be made via our <a href="https://eservices.mlaw.gov.sg/rop/" rel="noopener noreferrer nofollow" target="_blank">E-Services</a> portal.
 <br>
 <br>
 </p>
-<p><strong>8. What are the modes a pawnbroker may serve a notice of forfeiture?</strong>
+<p><strong>8. What are the modes a pawnbroker may serve a notice of forfeiture?</strong> 
 <br>Please refer to this <a href="/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf" rel="noopener noreferrer nofollow" target="_blank">infographic</a> for
 the permitted modes of serving a notice of forfeiture by a pawnbroker.
 <br>
 <br>
 </p>
-<p><strong>9. Are pawnbrokers allow to charge a pawner an administrative fee for a pawn ticket?</strong>
+<p><strong>9. Are pawnbrokers allow to charge a pawner an administrative fee for a pawn ticket?</strong> 
 <br>Yes, pawnbrokers that offer <u>cashless payment modes</u>* may charge a
 pawner a fee of $2 for each pawn ticket issued. Please refer to this
 <a href="/files/Infograph on Digitalisation in the Pawnbroking Sector.pdf" rel="noopener noreferrer nofollow" target="_blank">infographic</a>.
