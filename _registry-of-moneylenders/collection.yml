@@ -1,0 +1,4 @@
+collections:
+  registry-of-moneylenders:
+    output: true
+    order: []
