@@ -1,4 +1,5 @@
 collections:
   registry-of-moneylenders:
     output: true
-    order: []
+    order:
+      - Information for Licensed Moneylenders.md
