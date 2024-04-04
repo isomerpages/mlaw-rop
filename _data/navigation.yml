@@ -1,25 +1,25 @@
 logo: /images/mlaw-logo.png
 links:
-    - title: About Us
-      url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
-      sublinks:
-          - title: Our Vision, Mission and Core Values
-            url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
-          - title: Our Management
-            url: https://www.mlaw.gov.sg/about-us/our-management/
-          - title: Organisation Structure
-            url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
-          - title: Our Legal System
-            url: https://www.mlaw.gov.sg/about-us/our-legal-system/
-          - title: What We Do
-            url: https://www.mlaw.gov.sg/about-us/what-we-do/
-          - title: Contact Us
-            url: https://www.mlaw.gov.sg/about-us/contact-us/
-    - title: 'Information For Pawnbrokers'
-      collection: information-for-pawnbrokers
-    - title: 'Information For Pawners'
-      collection: information-for-pawners
-    - title: e-Services
-      url: 'https://eservices.mlaw.gov.sg/rop/'
-    - title: News
-      url: 'https://www.mlaw.gov.sg/news/'
+  - title: About Us
+    url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+    sublinks:
+      - title: Our Vision, Mission and Core Values
+        url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+      - title: Our Management
+        url: https://www.mlaw.gov.sg/about-us/our-management/
+      - title: Organisation Structure
+        url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+      - title: Our Legal System
+        url: https://www.mlaw.gov.sg/about-us/our-legal-system/
+      - title: What We Do
+        url: https://www.mlaw.gov.sg/about-us/what-we-do/
+      - title: Contact Us
+        url: https://www.mlaw.gov.sg/about-us/contact-us/
+  - title: Information For Pawnbrokers
+    collection: information-for-pawnbrokers
+  - title: Information For Pawners
+    collection: information-for-pawners
+  - title: e-Services
+    url: https://eservices.mlaw.gov.sg/rop/
+  - title: News
+    url: https://www.mlaw.gov.sg/news/
