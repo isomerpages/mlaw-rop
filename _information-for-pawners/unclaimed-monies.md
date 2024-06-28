@@ -35,7 +35,8 @@ The URA Centre (East Wing)<br>
 45 Maxwell Road<br>
 #07-11<br>
 Singapore 069118<br>
-Tel: 1800-2255529 (General Enquiries) </td>
+Tel: 1800-2255529 
+			*(Airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers*) </td>
 
   </tr>
   <tr>
