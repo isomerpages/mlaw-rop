@@ -11,13 +11,13 @@ Anti-Money Laundering, Countering Financing of Terrorism and Countering Financin
 To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx){:target="_blank"}.<br>
 
 **ii. FAQs on Internal Policies, Procedures and Controls Audit Reports** <br>
-To view, please click [here](/files/FAQsonPPCaudit.pdf){:target="_blank"}(26.1KB).<br>
+To view, please click [here](/files/AMLCFT Documents/FAQsonPPCaudit.pdf){:target="_blank"}(26.1KB).<br>
 
 **iii. Financial Action Task Force – June 2024 Statement: High-risk and Increased Monitoring Jurisdictions** <br>
 To view, please click [here]( https://www.mas.gov.sg/publications/fatf-statement/2024/june-2024-fatf-statement){:target="_blank"}.<br>   
 
 **iv. Notes for Pawnbrokers' Briefing on 16 October 2015** <br>
-The slides are in PDF format, to view click [here](/files/AMLCFTNotes.pdf){:target="_blank"}(460KB).<br>
+The slides are in PDF format, to view click [here](/files/AMLCFT Documents/AMLCFTNotes.pdf){:target="_blank"}(460KB).<br>
 
 **v. Information Guide ("Guide") on The Prevention of Money Laundering and Countering the Financing of Terrorism for Pawnbrokers** <br>
 To view the guide, please click [here](/files/Info Guide 2020 for Pawnbrokers.pdf){:target="_blank"}(827KB).<br>
