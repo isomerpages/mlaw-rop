@@ -23,7 +23,7 @@ The slides are in PDF format, to view click [here](/files/AMLCFTNotes.pdf){:targ
 To view the guide, please click [here](/files/Info Guide 2020 for Pawnbrokers.pdf){:target="_blank"}(827KB).<br>
 
 **vi. Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)** <br>
-To view, please click [here](https://www.mas.gov.sg/publications/fatf-statement/2015/june-2015-fatf-statement){:target="_blank"}.<br>
+To view, please click [here](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf)<br>
 
 **vii. Money Laundering National Risk Assessment (ML NRA) Report 2024** <br>
 The document is in PDF format, to view click [here](/files/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"}(988KB).<br>
