@@ -34,5 +34,5 @@ The document is in PDF format, to view click [here](/files/AMLCFT Documents/TFNR
 **ix. National Strategy for Countering the Financing of Terrorism (NSCFT)** <br>
 The document is in PDF format, to view click [here](/files/AMLCFT Documents/NSCFT_2024.pdf){:target="_blank"}(988KB).<br>
 
-**x. National Asset Recovery Strategy (NARS)** <br>
-The document is in PDF format, to view click [here](/files/AMLCFT Documents/1. TF NRA.pdf){:target="_blank"}(988KB).<br>
+**x. National Asset Recovery Strategy (NARS) 2024** <br>
+To view, please click [here]( https://www.mas.gov.sg/publications/monographs-or-information-paper/2024/national-asset-recovery-strategy){:target="_blank"}.<br>
