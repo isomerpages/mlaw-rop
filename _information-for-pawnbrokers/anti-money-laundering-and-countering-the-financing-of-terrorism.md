@@ -30,3 +30,9 @@ The document is in PDF format, to view click [here](/files/Money_Laundering_Nati
 
 **viii. The Terrorism Financing National Risk Assessment (TF NRA) 2024** <br>
 The document is in PDF format, to view click [here](/files/1. TF NRA.pdf){:target="_blank"}(988KB).<br>
+
+**ix. National Strategy for Countering the Financing of Terrorism (NSCFT)** <br>
+The document is in PDF format, to view click [here](/files/1. TF NRA.pdf){:target="_blank"}(988KB).<br>
+
+**viii. National Asset Recovery Strategy (NARS)** <br>
+The document is in PDF format, to view click [here](/files/1. TF NRA.pdf){:target="_blank"}(988KB).<br>
