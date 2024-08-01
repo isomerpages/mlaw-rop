@@ -20,13 +20,13 @@ To view, please click [here]( https://www.mas.gov.sg/publications/fatf-statement
 The slides are in PDF format, to view click [here](/files/AMLCFT Documents/AMLCFTNotes.pdf){:target="_blank"}(460KB).<br>
 
 **v. Information Guide ("Guide") on The Prevention of Money Laundering and Countering the Financing of Terrorism for Pawnbrokers** <br>
-To view the guide, please click [here](/files/Info Guide 2020 for Pawnbrokers.pdf){:target="_blank"}(827KB).<br>
+To view the guide, please click [here](/files/AMLCFT Documents/Info Guide 2020 for Pawnbrokers.pdf){:target="_blank"}(827KB).<br>
 
 **vi. Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)** <br>
 To view, please click [here](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf)<br>
 
 **vii. Money Laundering National Risk Assessment (ML NRA) Report 2024** <br>
-The document is in PDF format, to view click [here](/files/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"}(988KB).<br>
+The document is in PDF format, to view click [here](/files/AMLCFT Documents/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"}(988KB).<br>
 
 **viii. The Terrorism Financing National Risk Assessment (TF NRA) 2024** <br>
 The document is in PDF format, to view click [here](/files/AMLCFT Documents/NSCFT_2024.pdf){:target="_blank"}(988KB).<br>
@@ -35,4 +35,4 @@ The document is in PDF format, to view click [here](/files/AMLCFT Documents/NSCF
 The document is in PDF format, to view click [here](/files/AMLCFT Documents/NSCFT_2024.pdf){:target="_blank"}(988KB).<br>
 
 **x. National Asset Recovery Strategy (NARS)** <br>
-The document is in PDF format, to view click [here](/files/1. TF NRA.pdf){:target="_blank"}(988KB).<br>
+The document is in PDF format, to view click [here](/files/AMLCFT Documents/1. TF NRA.pdf){:target="_blank"}(988KB).<br>
