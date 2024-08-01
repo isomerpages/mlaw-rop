@@ -28,5 +28,5 @@ To view, please click [here](https://www.mas.gov.sg/publications/fatf-statement/
 **vii. Money Laundering National Risk Assessment (ML NRA) Report 2024** <br>
 The document is in PDF format, to view click [here](/files/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"}(988KB).<br>
 
-**viii. The Terrorism Financing National Risk Assessment (TF NRA) 2020** <br>
+**viii. The Terrorism Financing National Risk Assessment (TF NRA) 2024** <br>
 The document is in PDF format, to view click [here](/files/1. TF NRA.pdf){:target="_blank"}(988KB).<br>
