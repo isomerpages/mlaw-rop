@@ -36,3 +36,21 @@ The document is in PDF format, to view click [here](/files/AMLCFT Documents/NSCF
 
 **x. National Asset Recovery Strategy (NARS) 2024** <br>
 To view, please click [here]( https://www.mas.gov.sg/publications/monographs-or-information-paper/2024/national-asset-recovery-strategy){:target="_blank"}.<br>
+
+**xi. Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements**<br>
+The document is in PDF format, to view click [here](/files/AMLCFT Documents/MLTF_RA_Legal_Arrangements.pdf){:target="_blank"}(857KB).<br>
+
+**xii. Money Laundering and Terrorism Financing Risk Assessment of Legal Persons**<br>
+The document is in PDF format, to view click [here](/files/AMLCFT Documents/MLTF_RA_Legal_Persons.pdf){:target="_blank"}(995KB).<br>
+
+**xiii. Proliferation Financing (PF) National Risk Assessment and Counter-PF Strategy**<br>
+The document is in PDF format, to view click [here](/files/AMLCFT Documents/PF_NRA_Counter_PF_Strategy.pdf){:target="_blank"}(841KB).<br>
+
+**xiv. Singapore's Law Enforcement Strategy to Combat Money Laundering**<br>
+The document is in PDF format, to view click [here](/files/AMLCFT Documents/Singapore_Law_Enforcement_Strategy_to_Combat_ML.pdf){:target="_blank"}(1.17MB).<br>
+
+**xv. Singapore National Anti-Money Laundering Strategy**<br>
+The document is in PDF format, to view click [here](/files/AMLCFT Documents/Singapore_National_AML_Strategy.pdf){:target="_blank"}(763KB).<br>
+
+**xvi. Virtual Assets Risk Assessment**<br>
+The document is in PDF format, to view click [here](/files/AMLCFT Documents/Virtual_Assets_RA.pdf){:target="_blank"}(637KB).<br>
