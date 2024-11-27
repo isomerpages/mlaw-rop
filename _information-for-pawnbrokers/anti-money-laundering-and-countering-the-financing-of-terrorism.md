@@ -14,7 +14,7 @@ To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Sta
 To view, please click [here](/files/AMLCFT Documents/FAQsonPPCaudit.pdf){:target="_blank"}(26.1KB).<br>
 
 **iii. Financial Action Task Force – October 2024 Statement: High-risk and Increased Monitoring Jurisdictions** <br>
-To view, please click [here](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-october-2024.html){:target="blank"} for the High Risk Jurisdictions and please click [here](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2024.html)){:target="blank"} for the Jurisdictions under Increased Monitoring.   
+To view, please click [here](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-october-2024.html){:target="blank"} for the High Risk Jurisdictions and please click [here](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2024.html){:target="blank"} for the Jurisdictions under Increased Monitoring.   
 
 **iv. Notes for Pawnbrokers' Briefing on 16 October 2015** <br>
 The slides are in PDF format, to view click [here](/files/AMLCFT Documents/AMLCFTNotes.pdf){:target="_blank"}(460KB).<br>
