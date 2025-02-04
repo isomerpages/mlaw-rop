@@ -6,4 +6,4 @@ variant: markdown
 ---
 List of Licensed Pawnbrokers in Singapore
 ---
-Click [here](/files/List of PBs/List_of_Pawnshops_as_at_1_January_2025.pdf){:target="_blank"} to view the complete list of licensed pawnbrokers in Singapore.
+Click [here](/files/List of PBs/List_of_Pawnshop_as_at_1_February_2025.pdf){:target="_blank"} to view the complete list of licensed pawnbrokers in Singapore.
