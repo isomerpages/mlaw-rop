@@ -66,7 +66,7 @@ width: 30%;
 | [Money Laundering/Terrorist Financing through trade in diamonds (FATF)](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-through-trade-in-diamonds.pdf){:target="_blank"} | Apr 2019 |
 | [Money Laundering/Terrorist Financing risks associated with gold (FATF)](https://www.fatf-gafi.org/content/dam/fatf-gafi/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"} | Apr 2019 |
 | [40 Recommendations (FATF)](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html){:target="_blank"} | Apr 2019 |
-| [Notes for Moneylenders’ Briefing on 16 October 2015](/files/AMLCFT Documents/NotesAMLCFTROMbriefing16Oct20215.pdf){:target="_blank"} | Oct 2015 |
+| [Notes for Pawnbrokers’ Briefing on 16 October 2015](http://files/AMLCFT Documents/AMLCFTNotes.pdf){:target="_blank"} | Oct 2015 |
 | [AML/CFT Newsletters - Issue 1 of 2020](/files/amlcft-newsletters/AMLCFT Newsletter Issue 1 of 2020.pdf){:target="_blank"} | 
 | [AML/CFT Newsletters - Issue 1 of 2021](/files/amlcft-newsletters/(LML) AMLCFT Newsletter 1 of 2021.pdf){:target="_blank"} | 
 | [AML/CFT Newsletters - Issue 2 of 2021](/files/amlcft-newsletters/(LML) AMLCFT Newsletter 2 of 2021.pdf){:target="_blank"} | 
