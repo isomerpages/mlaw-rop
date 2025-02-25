@@ -2,6 +2,7 @@ collections:
   information-for-pawnbrokers:
     output: true
     order:
+      - Compliance (AML | CFT | CPF).md
       - information-for-pawnbrokers.md
       - forms.md
       - anti-money-laundering-and-countering-the-financing-of-terrorism.md
