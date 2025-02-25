@@ -7,9 +7,9 @@ description: ""
 Compliance
 ---  
 
-<a href="#Guidelines for Licensed Moneylenders">Guidelines for Licensed Moneylenders </a> | <a href="#Red Flag Indicators">Red Flag Indicators</a> |<a href="#AML/CFT/CPF Resources">AML/CFT/CPF Resources</a> | <a href="#Guidance Materials">Guidance Materials </a>
+<a href="#Guidelines for Licensed Pawnbrokers">Guidelines for Licensed Pawnbrokers </a> | <a href="#Red Flag Indicators">Red Flag Indicators</a> |<a href="#AML/CFT/CPF Resources">AML/CFT/CPF Resources</a> | <a href="#Guidance Materials">Guidance Materials </a>
 
-#### <a id="Guidelines for Licensed Moneylenders"></a>Guidelines for Licensed Moneylenders
+#### <a id="Guidelines for Licensed Pawnbrokers"></a>Guidelines for Licensed Pawnbrokers
 
 To access the guide, please click [here](/files/AMLCFT Documents/Info Guide 2020 for Moneylenders.pdf){:target="_blank"}
 
