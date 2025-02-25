@@ -7,7 +7,7 @@ description: ""
 Compliance
 ---  
 
-<a href="#Guidelines for Licensed Pawnbrokers">Guidelines for Licensed Pawnbrokers </a> | <a href="#Red Flag Indicators">Red Flag Indicators</a> |<a href="#AML/CFT/CPF Resources">AML/CFT/CPF Resources</a> | <a href="#Guidance Materials">Guidance Materials </a>
+<a href="#Guidelines for Licensed Pawnbrokers">Guidelines for Licensed Pawnbrokers </a> | <a href="#Red Flag Indicators">Red Flag Indicators</a> |<a href="#AML/CFT/CPF Resources">AML/CFT/CPF Resources</a> 
 
 #### <a id="Guidelines for Licensed Pawnbrokers"></a>Guidelines for Licensed Pawnbrokers
 
@@ -106,4 +106,3 @@ width: 30%;
 | [Terrorism Financing National Risk  Assessment 2020](https://acd.mlaw.gov.sg/images/Terrorism Financing National Risk Assessment 2020.pdf){:target="_blank"} | Jan 2021 |
 | [Singapore National Risk Assessment Report 2013](https://acd.mlaw.gov.sg/images/Singapore NRA Report 2013_24032015.pdf){:target="_blank"} | Apr 2019 |
 
-#### <a id="Guidance Materials"></a>Guidance Materials
