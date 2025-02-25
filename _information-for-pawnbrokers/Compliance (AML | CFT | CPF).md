@@ -68,8 +68,8 @@ width: 30%;
 | [Notes for Pawnbrokers’ Briefing on 16 October 2015](/files/AMLCFT Documents/AMLCFTNotes.pdf){:target="_blank"} | Oct 2015 |
 | [FAQs on Internal Policies, Procedures and Controls Audit Reports](/files/AMLCFT Documents/FAQsonPPCaudit.pdf){:target="_blank"} | 
 | [AML/CFT Newsletters - Issue 1 of 2020](/files/amlcft-newsletters/AMLCFT Newsletter Issue 1 of 2020.pdf){:target="_blank"} | 
-| [AML/CFT Newsletters - Issue 1 of 2021](/files/amlcft-newsletters/(LML) AMLCFT Newsletter 1 of 2021.pdf){:target="_blank"} | 
-| [AML/CFT Newsletters - Issue 2 of 2021](/files/amlcft-newsletters/(LML) AMLCFT Newsletter 2 of 2021.pdf){:target="_blank"} | 
+| [AML/CFT Newsletters - Issue 1 of 2021](/files/amlcft-newsletters/(PB) AMLCFT Newsletters 1 of 2021.pdf){:target="_blank"} | 
+| [AML/CFT Newsletters - Issue 2 of 2021](/files/amlcft-newsletters/(PB) AMLCFT Newsletters 2 of 2021.pdf){:target="_blank"} | 
 | [AML/CFT Newsletters - Issue 1 of 2022](/files/amlcft-newsletters/2022 AMLCFT Newsletter Issue 1.pdf){:target="_blank"} | 
 
 **4. ML/TF/PF/Virtual Assets National Risk Assessment**
