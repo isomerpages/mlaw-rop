@@ -11,7 +11,7 @@ Compliance
 
 #### <a id="Guidelines for Licensed Pawnbrokers"></a>Guidelines for Licensed Pawnbrokers
 
-To access the guide, please click [here](http://files/AMLCFT Documents/Info Guide 2020 for Pawnbrokers.pdf){:target="_blank"}
+To access the guide, please click [here](/files/AMLCFT Documents/Info Guide 2020 for Pawnbrokers.pdf){:target="_blank"}
 
 #### <a id="Red Flag Indicators"></a>Red Flag Indicators
 
