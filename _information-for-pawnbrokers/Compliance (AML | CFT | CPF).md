@@ -21,7 +21,7 @@ Click [here](/files/list of red flag indicators.pdf){:target="blank"} to view th
 
 **1. Monetary Authority of Singapore's ("MAS") website - Lists of Designated Individuals and Entities**
 
-MAS publishes <a target="_blank" href="https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities">lists</a> of individuals and entities designated under the United Nations Act ("**UN Act**") and the Terrorism (Suppression of Financing) Act ("**TSOFA**"). Licensed Pawnbrokers should <a target="_blank" href="https://www.mas.gov.sg/subscription-services">subscribe</a> to the MAS mailing list to receive updated lists of designated individuals and entities. Licensed Pawnbrokers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
+MAS publishes <a target="_blank" href="https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities">lists</a> of individuals and entities designated under the United Nations Act ("**UN Act**") and the Terrorism (Suppression of Financing) Act ("**TSOFA**"). Licensed pawnbrokers should <a target="_blank" href="https://www.mas.gov.sg/subscription-services">subscribe</a> to the MAS mailing list to receive updated lists of designated individuals and entities. Licensed pawnbrokers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
 You may refer to the <a target="_blank" href="https://acd.mlaw.gov.sg/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf">MAS Website Subscriber Services Guide</a> for a step-by-step guide to the subscription process.<br>
 
 **2. Inter-Ministry Committee on Terrorist Designation ("IMC-TD")**
@@ -30,7 +30,7 @@ The IMC-TD acts as Singapore's authority relating to the designation of terroris
 
 On MHA’s website on <a target="_blank" href="https://www.mha.gov.sg/what-we-do/managing-security-threats/countering-the-financing-of-terrorism">IMC-TD</a>, you will find information on counter terrorism financing legislation, IMC-TD’s process of designation, and relevant news articles.
 
-To find out more about your obligations as a licensed pawnbrokers on countering terrorism financing, please click <a target="_blank" href="https://acd.mlaw.gov.sg/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf">here</a>. 
+To find out more about your obligations as a licensed pawnbroker on countering terrorism financing, please click <a target="_blank" href="https://acd.mlaw.gov.sg/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf">here</a>. 
 
 **3. AML/CFT/CPF Resources**
 
