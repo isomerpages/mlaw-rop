@@ -96,13 +96,12 @@ width: 30%;
 | [Singapore's Law Enforcement Strategy to Combat Money Laundering](/files/AMLCFT Documents/Singapore_Law_Enforcement_Strategy_to_Combat_ML.pdf){:target="_blank"} | Nov 2024 |
 | [Singapore National Anti-Money Laundering Strategy](/files/AMLCFT Documents/Singapore_National_AML_Strategy.pdf){:target="_blank"} | Nov 2024 |
 | [Virtual Assets Risk Assessment](/files/AMLCFT Documents/Virtual_Assets_RA.pdf){:target="_blank"} | Nov 2024 |
-| [Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf){:target="_blank"} | May 2024 |
-| [Money Laundering National Risk Assessment (ML NRA) Report 2024)](/files/AMLCFT Documents/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jun 2024 |
 | [The Terrorism Financing National Risk Assessment (TF NRA) 2024)](/files/AMLCFT Documents/TFNRA_2024.pdf){:target="_blank"} | Jul 2024 |
 | [National Strategy for Countering the Financing of Terrorism (NSCFT)](/files/AMLCFT Documents/NSCFT_2024.pdf){:target="_blank"} | Jul 2024 |
 | [National Asset Recovery Strategy (NARS) 2024](https://acd.mlaw.gov.sg/files/National_Asset_Recovery_Strategy_2024.pdf){:target="_blank"} | Jun 2024 |
+| [Money Laundering National Risk Assessment (ML NRA) Report 2024)](/files/AMLCFT Documents/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jun 2024 |
+| [Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf){:target="_blank"} | May 2024 |
 | [National Strategy for Countering the Financing of Terrorism (CFT)](https://acd.mlaw.gov.sg/files/National Strategy for Countering the Financing of Terrorism.pdf){:target="_blank"} |  Oct 2022 |
 | [Singapore Terrorism Threat Assessment Report 2022](https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf){:target="_blank"} | Aug 2022 |
 | [Terrorism Financing National Risk  Assessment 2020](https://acd.mlaw.gov.sg/images/Terrorism Financing National Risk Assessment 2020.pdf){:target="_blank"} | Jan 2021 |
 | [Singapore National Risk Assessment Report 2013](https://acd.mlaw.gov.sg/images/Singapore NRA Report 2013_24032015.pdf){:target="_blank"} | Apr 2019 |
-
