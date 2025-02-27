@@ -54,16 +54,12 @@ width: 30%;
 | [High-risk and other monitored jurisdictions (FATF)](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html){:target="_blank"} | Oct 2024 |
 | [Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)](https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html){:target="_blank"} | Oct 2024 |
 | [MinLaw Industry Compliance and Engagement 2024 (MICE 2024)](https://acd.mlaw.gov.sg/files/MICE_2024.pdf){:target="_blank"} | Aug 2024 |
-| [GST Missing Trader Fraud Involving Precious Metals](https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes-iras/gst/gst-missing-trader-fraud-involving-precious-metals){:target="_blank"} | Oct 2023 |
-| [2023 Industry Engagement Session](https://acd.mlaw.gov.sg/files/2023 industry engagement session_20230510.pdf){:target="_blank"} | Jul 2023 |
 | [Money Laundering from Environmental Crime](https://www.fatf-gafi.org/media/fatf/documents/reports/Money-Laundering-from-Environmental-Crime.pdf){:target="_blank"} | Jul 2021 |
 | [Guidance on Proliferation Financing Risk Assessment and Mitigation](https://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-Proliferation-Financing-Risk-Assessment-Mitigation.pdf){:target="_blank"} | Jun 2021 |
 | [Trade-Based Money Laundering - Trends and Developments](http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-Laundering-Trends-and-Developments.pdf){:target="_blank"} | Dec 2020 |
 | [Trade-Based Money Laundering - Private Sector](http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Private-Sector.pdf){:target="_blank"} | Dec 2020 |
 | [COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses (FATF)](https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf){:target="_blank"} | May 2020 |
 | [COVID-19 and measures to combat illicit financing (FATF)](https://www.fatf-gafi.org/publications/fatfgeneral/documents/statement-covid-19.html){:target="_blank"} | Apr 2020 |
-| [Money Laundering/Terrorist Financing through trade in diamonds (FATF)](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-through-trade-in-diamonds.pdf){:target="_blank"} | Apr 2019 |
-| [Money Laundering/Terrorist Financing risks associated with gold (FATF)](https://www.fatf-gafi.org/content/dam/fatf-gafi/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"} | Apr 2019 |
 | [40 Recommendations (FATF)](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html){:target="_blank"} | Apr 2019 |
 | [Notes for Pawnbrokers’ Briefing on 16 October 2015](/files/AMLCFT Documents/AMLCFTNotes.pdf){:target="_blank"} | Oct 2015 |
 | [FAQs on Internal Policies, Procedures and Controls Audit Reports](/files/AMLCFT Documents/FAQsonPPCaudit.pdf){:target="_blank"} | 
