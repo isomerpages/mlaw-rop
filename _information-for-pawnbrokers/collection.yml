@@ -4,6 +4,5 @@ collections:
     order:
       - information-for-pawnbrokers.md
       - forms.md
-      - anti-money-laundering-and-countering-the-financing-of-terrorism.md
-      - aml-cft-newsletters.md
+      - Compliance (AML | CFT | CPF).md
       - relevant-laws-and-regulations.md
