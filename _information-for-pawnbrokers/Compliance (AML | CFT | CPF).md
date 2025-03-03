@@ -51,7 +51,7 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
-| [Call for Action in Accordance with February 2025 FATF Statement](https://rom.mlaw.gov.sg/february-2025-fatf-statement/){:target="_blank"} | Mar 2025 |
+| [Call for Action in Accordance with February 2025 FATF Statement](https://rop.mlaw.gov.sg/february-2025-fatf-statement/){:target="_blank"} | Mar 2025 |
 | [Singapore's Law Enforcement Strategy to Combat Money Laundering](/files/AMLCFT Documents/Singapore_Law_Enforcement_Strategy_to_Combat_ML.pdf){:target="_blank"} | Nov 2024 |
 | [Singapore National Anti-Money Laundering Strategy](/files/AMLCFT Documents/Singapore_National_AML_Strategy.pdf){:target="_blank"} | Nov 2024 |
 | [High-risk and other monitored jurisdictions (FATF)](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html){:target="_blank"} | Oct 2024 |
