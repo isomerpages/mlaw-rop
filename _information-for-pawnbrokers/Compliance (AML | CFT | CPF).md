@@ -51,6 +51,7 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
+| [Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment, and Ongoing Monitoring](/files/Additional_Guidance_Pawnbroker.pdf){:target="_blank"} | Mar 2025 |
 | [Call for Action in Accordance with February 2025 FATF Statement](https://rop.mlaw.gov.sg/february-2025-fatf-statement/){:target="_blank"} | Mar 2025 |
 | [Information and Guidance on Countering the Financing of Terrorism](https://acd.mlaw.gov.sg/files/information and guidance on countering the financing of terrorism.pdf){:target="_blank"} | Feb 2025 |
 | [Singapore's Law Enforcement Strategy to Combat Money Laundering](/files/AMLCFT Documents/Singapore_Law_Enforcement_Strategy_to_Combat_ML.pdf){:target="_blank"} | Nov 2024 |
