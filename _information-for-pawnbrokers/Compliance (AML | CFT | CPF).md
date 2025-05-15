@@ -51,7 +51,7 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
-| [Countering Proliferation Financing Industry Best Practice Paper](/files/CPF_Best_Practice_Paper.pdf){:target="_blank"} | May 2025 |
+| [Countering Proliferation Financing Industry Best Practice Paper](/files/AMLCFT Documents/CPF_Best_Practice_Paper.pdf){:target="_blank"} | May 2025 |
 |[Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment, and Ongoing Monitoring](/files/Additional_Guidance_Pawnbroker.pdf){:target="_blank"} | Mar 2025 |
 | [Call for Action in Accordance with February 2025 FATF Statement](https://rop.mlaw.gov.sg/february-2025-fatf-statement/){:target="_blank"} | Mar 2025 |
 | [Information and Guidance on Countering the Financing of Terrorism](https://acd.mlaw.gov.sg/files/information and guidance on countering the financing of terrorism.pdf){:target="_blank"} | Feb 2025 |
