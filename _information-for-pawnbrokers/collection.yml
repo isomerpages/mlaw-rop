@@ -2,6 +2,7 @@ collections:
   information-for-pawnbrokers:
     output: true
     order:
+      - Reports of Government Official Impersonation Scam (GOIS).md
       - information-for-pawnbrokers.md
       - forms.md
       - Compliance (AML | CFT | CPF).md
