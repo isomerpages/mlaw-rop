@@ -4,9 +4,6 @@ permalink: /reports-of-government-official-impersonation-scam-gois/
 variant: tiptap
 description: ""
 ---
-<p><strong><em>Reports of Government Official Impersonation Scam (GOIS)</em></strong>
-</p>
-<p></p>
 <p>Dear Licensees</p>
 <p></p>
 <p>The police seek your support in combating scams. Since early March 2025,
