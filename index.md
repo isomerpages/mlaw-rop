@@ -24,9 +24,9 @@ sections:
           url: https://eservices.mlaw.gov.sg/enquiry/
 description: Description
 image: /images/isomer-logo.svg
-notification: Ministry of Law officials will **NEVER** ask you to transfer money
-  or disclose bank log-in details over a phone call. Call the 24/7 **ScamShield
-  Helpline at 1799** if you are unsure if something is a scam. Learn about the
+notification: Ministry of Law officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam. Learn about the
   latest scam updates at <a href="https://www.scamshield.gov.sg/">
   scamshield.gov.sg</a>
 ---
