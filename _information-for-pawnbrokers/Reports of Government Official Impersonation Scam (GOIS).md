@@ -7,6 +7,8 @@ description: ""
 <p><strong><em>Reports of Government Official Impersonation Scam (GOIS)</em></strong>
 </p>
 <p></p>
+<p>Dear Licensees</p>
+<p></p>
 <p>The police seek your support in combating scams. Since early March 2025,
 the police have received several reports of Government Official Impersonation
 Scam (GOIS) featuring the impersonation of banks and government officials.
@@ -30,8 +32,10 @@ please remain vigilant for suspicious transactions, such as</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p><em>[insert infographic here for the website]</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beware_of_Impersonation_Scam.png">
+</div>
 <p>&nbsp;</p>
 <p>If you observe any suspicious behaviour, please alert your nearest Neighbourhood
 Police Centre. If you have any information relating to such crimes or if
