@@ -16,9 +16,8 @@ In some instances, the victim is instructed to purchase gold bars before
 parting them to an agent of the scammer.</p>
 <p>&nbsp;</p>
 <p>To help protect your customers, we encourage you to consider displaying
-the <em> </em>infographic at any appropriate location in your shopfront.
-Additionally, please remain vigilant for suspicious transactions, such
-as</p>
+the infographic below at any appropriate location in your shopfront. Additionally,
+please remain vigilant for suspicious transactions, such as</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Elderly customers making unusually large gold purchases</p>
