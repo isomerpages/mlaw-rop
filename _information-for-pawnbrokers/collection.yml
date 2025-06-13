@@ -2,7 +2,7 @@ collections:
   information-for-pawnbrokers:
     output: true
     order:
-      - Payment of Composition and Penalties.md
+      - Composition and Penalties payment.md
       - Reports of Government Official Impersonation Scam (GOIS).md
       - information-for-pawnbrokers.md
       - forms.md
