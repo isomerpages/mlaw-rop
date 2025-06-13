@@ -4,7 +4,7 @@ permalink: /other-services/
 variant: tiptap
 description: ""
 ---
-<h4>Other Services</h4>
+<h2>Other Services</h2>
 <p>Please visit the following for our other services:</p>
 <ul data-tight="true" class="tight">
 <li>
