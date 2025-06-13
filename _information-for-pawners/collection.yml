@@ -2,6 +2,7 @@ collections:
   information-for-pawners:
     output: true
     order:
+      - Other Services.md
       - information-for-pawners.md
       - list-of-licensed-pawnbrokers-in-singapore.md
       - unclaimed-monies.md
