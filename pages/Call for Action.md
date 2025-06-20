@@ -21,4 +21,4 @@ In this connection, we seek to update you that the Financial Action Task Force h
 
 Thank you.
 
-IPTO<br>Ministry of Law
+Registry of Pawnbrokers<br>Ministry of Law
