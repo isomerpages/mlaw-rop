@@ -51,6 +51,7 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
+| [Call for Action in Accordance with June 2025 FATF Statement](https://rop.mlaw.gov.sg/june-2025-fatf-statement/){:target="_blank"} | Jun 2025 |
 | [Countering Proliferation Financing Industry Best Practice Paper](/files/AMLCFT Documents/CPF_Best_Practice_Paper.pdf){:target="_blank"} | May 2025 |
 |[Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment, and Ongoing Monitoring](/files/Additional_Guidance_Pawnbroker.pdf){:target="_blank"} | Mar 2025 |
 | [Call for Action in Accordance with February 2025 FATF Statement](https://rop.mlaw.gov.sg/february-2025-fatf-statement/){:target="_blank"} | Mar 2025 |
