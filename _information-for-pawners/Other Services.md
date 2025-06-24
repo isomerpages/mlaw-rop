@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>Other Services</h2>
-<p>Please visit the following for our other services:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Submission of<strong> </strong><a href="https://form.gov.sg/5fd6e9961e9fb00011952390" rel="noopener noreferrer nofollow" target="_blank">First Information Report</a>
