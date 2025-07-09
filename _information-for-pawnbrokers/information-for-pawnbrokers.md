@@ -199,12 +199,12 @@ the pawnbroking business premises.</p>
 <a href="https://eservices.mlaw.gov.sg/rop/" rel="noopener noreferrer nofollow" target="_blank">E-Services</a>&nbsp;portal.</p>
 <p></p>
 <p><strong>12. What are the modes a pawnbroker may serve a notice of forfeiture?</strong> 
-<br>Please refer to this&nbsp;<a href="https://rop.mlaw.gov.sg/files/Infograph%20on%20Digitalisation%20in%20the%20Pawnbroking%20Sector.pdf" rel="noopener noreferrer nofollow" target="_blank">infographic</a>&nbsp;for
+<br>Please refer to this <a href="/files/ROP_Digitalisation_in_the_Pawnbroking_Sector_12Feb25.pdf" rel="noopener nofollow" target="_blank">infographic</a> for
 the permitted modes of serving a notice of forfeiture by a pawnbroker.</p>
 <p></p>
 <p><strong>13. Are pawnbrokers allow to charge a pawner an administrative fee for a pawn ticket?</strong> 
 <br>Yes, pawnbrokers that offer cashless payment modes* may charge a pawner
-a fee of up to $2 for each pawn ticket issued. Please refer to this <a href="https://rop.mlaw.gov.sg/files/Infograph%20on%20Digitalisation%20in%20the%20Pawnbroking%20Sector.pdf" rel="noopener noreferrer nofollow" target="_blank">infographic</a> and
+a fee of up to $2 for each pawn ticket issued. Please refer to this <a href="/files/ROP_Digitalisation_in_the_Pawnbroking_Sector_12Feb25.pdf" rel="noopener nofollow" target="_blank">infographic</a> and
 <a href="https://sso.agc.gov.sg/Act/PA2015?WholeDoc=1#Sc2-" rel="noopener noreferrer nofollow" target="_blank">Second Schedule under the Pawnbrokers Act 2015</a>for more information.</p>
 <p></p>
 <p>*Credit facilities (e.g. credit cards) are excluded.</p>
