@@ -4,7 +4,7 @@ permalink: /information-for-pawnbrokers/
 breadcrumb: Information for Pawnbrokers
 variant: tiptap
 ---
-<p><strong>1. Where can I find more information on the Registry of Pawnbrokers?	</strong>
+<p><strong>1. Where can I find more information on the Registry of Pawnbrokers?</strong>
 </p>
 <p>You can find more information on the Registry of Pawnbrokers' <a href="https://rop.mlaw.gov.sg/" rel="noopener nofollow" target="_blank">website</a>.</p>
 <p></p>
@@ -112,12 +112,12 @@ months from the time of your application depending on the complexity of
 your case, the time taken by the Police in their review (where applicable)
 and the time taken to carry out your renovation and fitting out satisfactorily.</p>
 <p></p>
-<p><strong>4. How much is the application fee for pawnbroker's licence?	</strong>
+<p><strong>4. How much is the application fee for pawnbroker's licence?</strong>
 </p>
 <p>There is a non-refundable application fee of $800 payable for an application
 for a pawnbroker's licence, regardless of the outcome of the application.</p>
 <p></p>
-<p><strong>5. How much is the pawnbroker's licence fee?	</strong>
+<p><strong>5. How much is the pawnbroker's licence fee?</strong>
 </p>
 <p>The fee for a pawnbroker's licence is $3,000 per annum.
 <br>
