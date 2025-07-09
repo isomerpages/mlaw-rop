@@ -13,7 +13,7 @@ yourself with the provisions of the <a href="https://sso.agc.gov.sg/Act/PA2015?W
 <a href="https://sso.agc.gov.sg/SL/PA2015-S142-2015?DocDate=20221219&amp;WholeDoc=1#top" rel="noopener nofollow" target="_blank">Pawnbrokers Rules 2015</a>, which can be obtained online at <a href="http://sso.agc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">http://sso.agc.gov.sg</a>.
 <br>
 </p>
-<p><strong>2. How do I apply for a pawnbroker’s licence?</strong> 
+<p><strong>2. How do I apply for a pawnbroker’s licence?</strong>
 </p>
 <p>You may submit your application via <a href="https://www.gobusiness.gov.sg/browse-all-licences/ministry-of-law-(minlaw)/pawnbroker's-licence" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a> and
 you may wish to note the following:</p>
