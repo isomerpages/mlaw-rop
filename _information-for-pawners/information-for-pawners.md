@@ -17,6 +17,6 @@ Please refer to this [link](https://rop.mlaw.gov.sg/information-for-pawners/uncl
 Please refer to this [infographic](https://rop.mlaw.gov.sg/files/Infograph%20on%20Digitalisation%20in%20the%20Pawnbroking%20Sector.pdf) for the permitted modes of serving a notice of forfeiture by a pawnbroker.
 
 **4. Are pawnbrokers allow to charge a pawner an administrative fee for a pawn ticket?**<br>
-Yes, pawnbrokers that offer <u>cashless payment modes</u>* may charge a pawner a fee of $2 for each pawn ticket issued. Please refer to this [infographic](https://rop.mlaw.gov.sg/files/Infograph%20on%20Digitalisation%20in%20the%20Pawnbroking%20Sector.pdf) for more information.<br>
+Yes, pawnbrokers that offer <u>cashless payment modes</u>* may charge a pawner a fee of $2 for each pawn ticket issued. Please refer to this [infographic](https://rop.mlaw.gov.sg/files/Infograph%20on%20Digitalisation%20in%20the%20Pawnbroking%20Sector.pdf) and [Second Schedule under the Pawnbrokers Act 2015](https://sso.agc.gov.sg/Act/PA2015?WholeDoc=1#Sc2-) for more information.<br>
 
 <sub>*Credit facilities (e.g. credit cards) are excluded.</sub>
