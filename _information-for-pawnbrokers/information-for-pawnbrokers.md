@@ -8,7 +8,7 @@ variant: tiptap
 </p>
 <p>You can find more information on the Registry of Pawnbrokers' <a href="https://rop.mlaw.gov.sg/" rel="noopener nofollow" target="_blank">website</a>.</p>
 <p></p>
-<p><strong>2. Where can I find the list of licensed pawnbrokers?	</strong>
+<p><strong>2. Where can I find the list of licensed pawnbrokers?</strong>
 </p>
 <p>The list of licensed pawnbrokers can be found on our <a href="https://rop.mlaw.gov.sg/information-for-pawners/list-of-licensed-pawnbrokers-in-singapore/" rel="noopener nofollow" target="_blank">website</a>.</p>
 <p></p>
