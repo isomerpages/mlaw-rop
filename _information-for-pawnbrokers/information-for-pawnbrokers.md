@@ -4,7 +4,11 @@ permalink: /information-for-pawnbrokers/
 breadcrumb: Information for Pawnbrokers
 variant: tiptap
 ---
-<p><strong>1. How do I start a pawnbroking business?</strong> 
+<p><strong>1. Where can I find more information on the Registry of Pawnbrokers?	</strong>
+</p>
+<p>You can find more information on the Registry of Pawnbrokers' <a href="https://rop.mlaw.gov.sg/" rel="noopener nofollow" target="_blank">website</a>.</p>
+<p></p>
+<p><strong>2. How do I start a pawnbroking business?</strong> 
 <br>You are required to apply for a pawnbroker's licence from the Registrar
 of Pawnbrokers ("<strong>Registrar</strong>"). The online application can
 be made <a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
@@ -13,7 +17,7 @@ yourself with the provisions of the <a href="https://sso.agc.gov.sg/Act/PA2015?W
 <a href="https://sso.agc.gov.sg/SL/PA2015-S142-2015?DocDate=20221219&amp;WholeDoc=1#top" rel="noopener nofollow" target="_blank">Pawnbrokers Rules 2015</a>, which can be obtained online at <a href="http://sso.agc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">http://sso.agc.gov.sg</a>.
 <br>
 </p>
-<p><strong>2. How do I apply for a pawnbroker’s licence?</strong>
+<p><strong>3. How do I apply for a pawnbroker’s licence?</strong>
 </p>
 <p>You may submit your application via <a href="https://www.gobusiness.gov.sg/browse-all-licences/ministry-of-law-(minlaw)/pawnbroker's-licence" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a> and
 you may wish to note the following:</p>
@@ -106,10 +110,19 @@ licence:</p>
 are correct and in order. The issuance of a licence may require 3 to 6
 months from the time of your application depending on the complexity of
 your case, the time taken by the Police in their review (where applicable)
-and the time taken to carry out your renovation and fitting out satisfactorily.
+and the time taken to carry out your renovation and fitting out satisfactorily.</p>
+<p></p>
+<p><strong>4. How much is the application fee for pawnbroker's licence?	</strong>
+</p>
+<p>There is a non-refundable application fee of $800 payable for an application
+for a pawnbroker's licence, regardless of the outcome of the application.</p>
+<p></p>
+<p><strong>5. How much is the pawnbroker's licence fee?	</strong>
+</p>
+<p>The fee for a pawnbroker's licence is $3,000 per annum.
 <br>
 </p>
-<p><strong>3. How do I update my company's or licensee's particulars?</strong> 
+<p><strong>6. How do I update my company's or licensee's particulars?</strong> 
 <br><strong>Update Of Company's/Licensee's Particulars</strong> 
 <br>Please submit an online application for the following update/changes to
 your company’s/licensee’s particulars:</p>
@@ -133,12 +146,12 @@ by submitting an online application.</p>
 <p>A copy of the online application form for the above updates/changes is
 available&nbsp;<a href="https://www.gobusiness.gov.sg/licences" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
-<p><strong>4. How do I terminate my pawnbroker’s licence?</strong> 
+<p><strong>7. How do I terminate my pawnbroker’s licence?</strong> 
 <br>If you wish to terminate your pawnbroker’s licence, you may submit your
 termination application&nbsp;<a href="https://www.gobusiness.gov.sg/licences" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 </p>
-<p><strong>5. How do I apply for a waiver certificate from the Pawnbrokers Act 2015?</strong> 
+<p><strong>8. How do I apply for a waiver certificate from the Pawnbrokers Act 2015?</strong> 
 <br>Under section 43(1)(a) of the Pawnbrokers Act 2015, a company or other
 business entity may be granted a waiver from complying with the provisions
 of the Pawnbrokers Act 2015. There is no prescribed form for the application
@@ -169,7 +182,7 @@ regardless of the outcome of the application. Payment of the application
 fee should be made in the form of an account-payee crossed cheque of $600/-
 in favour of the ‘Accountant-General, Singapore'.</p>
 <p></p>
-<p><strong>6. Can I sell new jewellery in Pawnshops? </strong>
+<p><strong>9. Can I sell new jewellery in Pawnshops? </strong>
 <br>Interested applicants are strongly advised to send in their applications
 by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be
 accompanied by an elaboration on how the applicable&nbsp;<a href="https://rop.mlaw.gov.sg/files/Licence%20Conditions/Licence_Conditions_19_February_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">licence conditions&nbsp;</a>would
@@ -177,15 +190,15 @@ be met and supporting documents, similar to the approach taken for the
 application for a second-hand goods dealing business to be conducted on
 the pawnbroking business premises.</p>
 <p></p>
-<p><strong>7. How do I make payment when I receive the Notice of Offer of Composition?</strong> 
+<p><strong>10. How do I make payment when I receive the Notice of Offer of Composition?</strong> 
 <br>Payment for the Notice of Offer of Composition can be made via our&nbsp;
 <a href="https://eservices.mlaw.gov.sg/rop/" rel="noopener noreferrer nofollow" target="_blank">E-Services</a>&nbsp;portal.</p>
 <p></p>
-<p><strong>8. What are the modes a pawnbroker may serve a notice of forfeiture?</strong> 
+<p><strong>11. What are the modes a pawnbroker may serve a notice of forfeiture?</strong> 
 <br>Please refer to this&nbsp;<a href="https://rop.mlaw.gov.sg/files/Infograph%20on%20Digitalisation%20in%20the%20Pawnbroking%20Sector.pdf" rel="noopener noreferrer nofollow" target="_blank">infographic</a>&nbsp;for
 the permitted modes of serving a notice of forfeiture by a pawnbroker.</p>
 <p></p>
-<p><strong>9. Are pawnbrokers allow to charge a pawner an administrative fee for a pawn ticket?</strong> 
+<p><strong>12. Are pawnbrokers allow to charge a pawner an administrative fee for a pawn ticket?</strong> 
 <br>Yes, pawnbrokers that offer cashless payment modes* may charge a pawner
 a fee of up to $2 for each pawn ticket issued. Please refer to this <a href="https://rop.mlaw.gov.sg/files/Infograph%20on%20Digitalisation%20in%20the%20Pawnbroking%20Sector.pdf" rel="noopener noreferrer nofollow" target="_blank">infographic</a> and
 <a href="https://sso.agc.gov.sg/Act/PA2015?WholeDoc=1#Sc2-" rel="noopener noreferrer nofollow" target="_blank">Second Schedule under the Pawnbrokers Act 2015</a>for more information.</p>
