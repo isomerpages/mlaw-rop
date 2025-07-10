@@ -195,8 +195,7 @@ application for a second-hand goods dealing business to be conducted on
 the pawnbroking business premises.</p>
 <p></p>
 <p><strong>11. How do I make payment when I receive the Notice of Offer of Composition?</strong> 
-<br>Payment for the Notice of Offer of Composition can be made via our&nbsp;
-<a href="https://eservices.mlaw.gov.sg/rop/" rel="noopener noreferrer nofollow" target="_blank">E-Services</a>&nbsp;portal.</p>
+<br>Payment for the Notice of Offer of Composition can be made via our <a href="https://rop.mlaw.gov.sg/payment-of-composition-and-penalties/" rel="noopener noreferrer nofollow" target="_blank">Website</a>.</p>
 <p></p>
 <p><strong>12. What are the modes a pawnbroker may serve a notice of forfeiture?</strong> 
 <br>Please refer to this <a href="/files/ROP_Digitalisation_in_the_Pawnbroking_Sector_12Feb25.pdf" rel="noopener nofollow" target="_blank">infographic</a> for
