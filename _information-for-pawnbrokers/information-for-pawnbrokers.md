@@ -189,13 +189,13 @@ in favour of the ‘Accountant-General, Singapore'.</p>
 <p><strong>10. Can I sell new jewellery in Pawnshops? </strong>
 <br>Interested applicants are strongly advised to send in their applications
 by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be
-accompanied by an elaboration on how the applicable&nbsp;<a href="https://rop.mlaw.gov.sg/files/Licence%20Conditions/Licence_Conditions_19_February_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">licence conditions&nbsp;</a>would
+accompanied by an elaboration on how the applicable&nbsp;<a href="https://rop.mlaw.gov.sg/information-for-pawnbrokers/relevant-laws-and-regulations/" rel="noopener noreferrer nofollow" target="_blank">licence conditions&nbsp;</a>would
 be met and supporting documents, similar to the approach taken for the
 application for a second-hand goods dealing business to be conducted on
 the pawnbroking business premises.</p>
 <p></p>
 <p><strong>11. How do I make payment when I receive the Notice of Offer of Composition?</strong> 
-<br>Payment for the Notice of Offer of Composition can be made via our <a href="https://rop.mlaw.gov.sg/payment-of-composition-and-penalties/" rel="noopener noreferrer nofollow" target="_blank">Website</a>.</p>
+<br>Payment for the Notice of Offer of Composition can be made via our <a href="https://rop.mlaw.gov.sg/payment-of-composition-and-penalties/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
 <p></p>
 <p><strong>12. What are the modes a pawnbroker may serve a notice of forfeiture?</strong> 
 <br>Please refer to this <a href="/files/ROP_Digitalisation_in_the_Pawnbroking_Sector_12Feb25.pdf" rel="noopener nofollow" target="_blank">infographic</a> for
