@@ -2,6 +2,8 @@ collections:
   information-for-pawnbrokers:
     output: true
     order:
+      - Circular on 9 June 2025/Reports of Government Official Impersonation
+        Scam (GOIS).md
       - Circular on 9 June 2025/.keep
       - information-for-pawnbrokers.md
       - relevant-laws-and-regulations.md
