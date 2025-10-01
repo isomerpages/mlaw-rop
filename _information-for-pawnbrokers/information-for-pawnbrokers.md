@@ -150,12 +150,25 @@ by submitting an online application.</p>
 <p>A copy of the online application form for the above updates/changes is
 available&nbsp;<a href="https://www.gobusiness.gov.sg/licences" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
-<p><strong>8. How do I terminate my pawnbroker’s licence?</strong> 
-<br>If you wish to terminate your pawnbroker’s licence, you may submit your
-termination application&nbsp;<a href="https://www.gobusiness.gov.sg/licences" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<p><strong>8. How do I renew my pawnbroker’s licence?</strong>
+</p>
+<p>The renewal of the pawnbroking licence is subject to the good conduct
+of the licensee. Licensees should have the following document ready and
+forward it to the Registry upon notification; no later than two months
+before the expiry of the licence:</p>
+<p>(a) A renewed Banker’s Guarantee or Insurance Guarantee for a sum of $100,000,
+covering the entire licence period</p>
+<p>The application for the renewal of the pawnbroker’s licence will complete
+at least 2 weeks before the expiry of the existing licence, subject to
+the submission of requisite information/documents and the payment of licence
+fee.</p>
+<p></p>
+<p><strong>9. How do I terminate my pawnbroker’s licence? <br></strong>If
+you wish to terminate your pawnbroker’s licence, you may submit your termination
+application&nbsp;<a href="https://www.gobusiness.gov.sg/licences" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 </p>
-<p><strong>9. How do I apply for a waiver certificate from the Pawnbrokers Act 2015?</strong> 
+<p><strong>10. How do I apply for a waiver certificate from the Pawnbrokers Act 2015?</strong> 
 <br>Under section 43(1)(a) of the Pawnbrokers Act 2015, a company or other
 business entity may be granted a waiver from complying with the provisions
 of the Pawnbrokers Act 2015. There is no prescribed form for the application
@@ -186,7 +199,7 @@ regardless of the outcome of the application. Payment of the application
 fee should be made in the form of an account-payee crossed cheque of $600/-
 in favour of the ‘Accountant-General, Singapore'.</p>
 <p></p>
-<p><strong>10. Can I sell new jewellery in Pawnshops? </strong>
+<p><strong>11. Can I sell new jewellery in Pawnshops? </strong>
 <br>Interested applicants are strongly advised to send in their applications
 by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be
 accompanied by an elaboration on how the applicable&nbsp;<a href="https://rop.mlaw.gov.sg/information-for-pawnbrokers/relevant-laws-and-regulations/" rel="noopener noreferrer nofollow" target="_blank">licence conditions&nbsp;</a>would
@@ -194,14 +207,14 @@ be met and supporting documents, similar to the approach taken for the
 application for a second-hand goods dealing business to be conducted on
 the pawnbroking business premises.</p>
 <p></p>
-<p><strong>11. How do I make payment when I receive the Notice of Offer of Composition?</strong> 
+<p><strong>12. How do I make payment when I receive the Notice of Offer of Composition?</strong> 
 <br>Payment for the Notice of Offer of Composition can be made via our <a href="https://rop.mlaw.gov.sg/payment-of-composition-and-penalties/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
 <p></p>
-<p><strong>12. What are the modes a pawnbroker may serve a notice of forfeiture?</strong> 
+<p><strong>13. What are the modes a pawnbroker may serve a notice of forfeiture?</strong> 
 <br>Please refer to this <a href="/files/ROP_Digitalisation_in_the_Pawnbroking_Sector_12Feb25.pdf" rel="noopener nofollow" target="_blank">infographic</a> for
 the permitted modes of serving a notice of forfeiture by a pawnbroker.</p>
 <p></p>
-<p><strong>13. Are pawnbrokers allow to charge a pawner an administrative fee for a pawn ticket?</strong> 
+<p><strong>14. Are pawnbrokers allow to charge a pawner an administrative fee for a pawn ticket?</strong> 
 <br>Yes, pawnbrokers that offer cashless payment modes* may charge a pawner
 a fee of up to $2 for each pawn ticket issued. Please refer to this <a href="/files/ROP_Digitalisation_in_the_Pawnbroking_Sector_12Feb25.pdf" rel="noopener nofollow" target="_blank">infographic</a> and
 <a href="https://sso.agc.gov.sg/Act/PA2015?WholeDoc=1#Sc2-" rel="noopener noreferrer nofollow" target="_blank">Second Schedule under the Pawnbrokers Act 2015</a>for more information.</p>
