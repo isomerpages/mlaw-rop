@@ -201,11 +201,11 @@ in favour of the ‘Accountant-General, Singapore'.</p>
 <p></p>
 <p><strong>11. Can I sell new jewellery in Pawnshops? </strong>
 <br>Interested applicants are strongly advised to send in their applications
-by post or e-mail to PB_enquiries@mlaw.gov.sg. The application should be
-accompanied by an elaboration on how the applicable&nbsp;<a href="https://rop.mlaw.gov.sg/information-for-pawnbrokers/relevant-laws-and-regulations/" rel="noopener noreferrer nofollow" target="_blank">licence conditions&nbsp;</a>would
-be met and supporting documents, similar to the approach taken for the
-application for a second-hand goods dealing business to be conducted on
-the pawnbroking business premises.</p>
+by post or via online enquiry at <a rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/contactminlaw</a>.
+The application should be accompanied by an elaboration on how the applicable&nbsp;
+<a href="https://rop.mlaw.gov.sg/information-for-pawnbrokers/relevant-laws-and-regulations/" rel="noopener noreferrer nofollow" target="_blank">licence conditions&nbsp;</a>would be met and supporting documents, similar
+to the approach taken for the application for a second-hand goods dealing
+business to be conducted on the pawnbroking business premises.</p>
 <p></p>
 <p><strong>12. How do I make payment when I receive the Notice of Offer of Composition?</strong> 
 <br>Payment for the Notice of Offer of Composition can be made via our <a href="https://rop.mlaw.gov.sg/payment-of-composition-and-penalties/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
