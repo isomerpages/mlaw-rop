@@ -201,8 +201,8 @@ in favour of the ‘Accountant-General, Singapore'.</p>
 <p></p>
 <p><strong>11. Can I sell new jewellery in Pawnshops? </strong>
 <br>Interested applicants are strongly advised to send in their applications
-by post or via online enquiry at <a rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/contactminlaw</a>.
-The application should be accompanied by an elaboration on how the applicable&nbsp;
+by post or via online enquiry at <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener nofollow" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a>.
+The application should be accompanied by an elaboration on how the applicable
 <a href="https://rop.mlaw.gov.sg/information-for-pawnbrokers/relevant-laws-and-regulations/" rel="noopener noreferrer nofollow" target="_blank">licence conditions&nbsp;</a>would be met and supporting documents, similar
 to the approach taken for the application for a second-hand goods dealing
 business to be conducted on the pawnbroking business premises.</p>
