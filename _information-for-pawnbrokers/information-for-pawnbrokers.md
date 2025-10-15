@@ -178,7 +178,7 @@ following information and supporting documents:</p>
 <p>ii) A copy of the Instant Information Service printout on the applicant
 issued by ACRA;</p>
 <p>iii) The business(es) and registered address(es) of the applicant;</p>
-<p>iv) The telephone number(s) of the applicant;</p>
+<p>iv) The telephone number(s) and email address(es) of the applicant;</p>
 <p>v) A detailed description of each type of activity for which the waiver
 certificate is sought, &nbsp;including the specific goods involved, proposed
 processes, and the reasons for seeking a waiver;</p>
@@ -189,15 +189,23 @@ to each type of pawnbroking activity for which waiver is sought; and</p>
 <p>Applications may be submitted to the Registry via the following channels:</p>
 <p>a) Mail to:</p>
 <p>Registry of Pawnbrokers
-<br>Ministry of Law
+<br>MinLaw Mailroom
 <br>45 Maxwell Road
-<br>#07-11
+<br>#06-01
 <br>The URA Centre East Wing</p>
-<p></p>
+<p>Singapore 069118</p>
+<p>b) Online submission via:</p>
+<p><a href="www.go.gov.sg/contactminlaw" rel="noopener nofollow" target="_blank">Contact Us @ OneMinLaw </a>
+</p>
 <p>Please note that a non-refundable application fee of $600/- shall apply
 regardless of the outcome of the application. Payment of the application
-fee should be made in the form of an account-payee crossed cheque of $600/-
-in favour of the ‘Accountant-General, Singapore'.</p>
+fee should be made via bank transfer to:</p>
+<p>Bank Name: DBS Bank</p>
+<p>Account Name: Official Assignee &amp; Public Trustee / AG</p>
+<p>Account Number: 001-063348-1</p>
+<p>Applicants are required to indicate their company name and Unique Entity
+Number (“UEN”) in the bank transfer reference for payment traceability.</p>
+<p></p>
 <p></p>
 <p><strong>11. Can I sell new jewellery in Pawnshops? </strong>
 <br>Interested applicants are strongly advised to send in their applications
