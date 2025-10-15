@@ -195,7 +195,7 @@ to each type of pawnbroking activity for which waiver is sought; and</p>
 <br>The URA Centre East Wing</p>
 <p>Singapore 069118</p>
 <p>b) Online submission via:</p>
-<p><a href="www.go.gov.sg/contactminlaw" rel="noopener nofollow" target="_blank">Contact Us @ OneMinLaw </a>
+<p><a href="www.go.gov.sg/contactminlaw" rel="noopener nofollow" target="_blank">Contact Us @ OneMinLaw</a>
 </p>
 <p>Please note that a non-refundable application fee of $600/- shall apply
 regardless of the outcome of the application. Payment of the application
