@@ -89,4 +89,5 @@ made to the claimant once the claim is verified.</p>
 </table>
 <p><strong>List of Unclaimed Monies</strong>
 </p>
-<p></p>
+<p><a href="/files/Unclaimed Surplus/2025 Unclaimed Monies/Unclaimed_moniesSep25.pdf" rel="noopener nofollow" target="_blank">Pawners' Unredeemed Pledges</a>
+</p>
