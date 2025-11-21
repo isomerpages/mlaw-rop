@@ -52,7 +52,7 @@ width: 30%;
 | Document | Uploaded |
 | --- | --- |
 | [Filing a Suspicious Transaction Report (STR) – English](https://youtu.be/YBnbZbDelbc/){:target="_blank"} | Nov 2025 |
-| [Filing a Suspicious Transaction Report (STR) – Chinese](https://youtu.be/UQIM6a3Sdq8){:target="_blank"} | Nov 2025 |
+| [Filing a Suspicious Transaction Report (STR) – Mandarin](https://youtu.be/UQIM6a3Sdq8){:target="_blank"} | Nov 2025 |
 | [Call for Action in Accordance with October 2025 FATF Statement](https://rop.mlaw.gov.sg/october-2025-fatf-statement/){:target="_blank"} | Oct 2025 |
 | [Call for Action in Accordance with June 2025 FATF Statement](https://rop.mlaw.gov.sg/june-2025-fatf-statement/){:target="_blank"} | Jun 2025 |
 | [Countering Proliferation Financing Industry Best Practice Paper](/files/AMLCFT Documents/CPF_Best_Practice_Paper.pdf){:target="_blank"} | May 2025 |
