@@ -21,7 +21,7 @@ sections:
           url: /information-for-pawners/list-of-licensed-pawnbrokers-in-singapore/
         - title: Contact Us
           description: Find the answers to your questions
-          url: https://eservices.mlaw.gov.sg/enquiry/
+          url: https://www.mlaw.gov.sg/about-us/contact-us/
 description: Description
 image: /images/isomer-logo.svg
 notification: Government officials will <b>NEVER</b> ask you to transfer money
