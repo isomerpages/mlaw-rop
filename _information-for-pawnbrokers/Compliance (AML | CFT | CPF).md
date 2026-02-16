@@ -51,6 +51,7 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
+| [Call for Action in Accordance with February 2026 FATF Statement](https://rop.mlaw.gov.sg/february-2026-fatf-statement/){:target="_blank"} | Feb 2026 |
 | [Filing a Suspicious Transaction Report (STR) – English](https://youtu.be/YBnbZbDelbc/){:target="_blank"} | Nov 2025 |
 | [Filing a Suspicious Transaction Report (STR) – Mandarin](https://youtu.be/UQIM6a3Sdq8){:target="_blank"} | Nov 2025 |
 | [Call for Action in Accordance with October 2025 FATF Statement](https://rop.mlaw.gov.sg/october-2025-fatf-statement/){:target="_blank"} | Oct 2025 |
