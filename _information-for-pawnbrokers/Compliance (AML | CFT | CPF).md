@@ -52,8 +52,8 @@ width: 30%;
 | Document | Uploaded |
 | --- | --- |
 | [FATF Publications: Horizon Scan on AI and Deepfakes, Report on Stablecoins and Unhosted Wallets](https://rop.mlaw.gov.sg/fatf-publications-horizon-scan-on-ai-and-deepfakes-report-on-stablecoins-and-unhosted-wallets/){:target="_blank"} | Mar 2026 |
-| [Horizon Scan on Artificial Intelligence and Deepfakes (FATF)](/files/AMLCFT Documents/Horizon_Scan_on_Artificial_Intelligence_and_Deepfakes_FATF.pdf){:target="_blank"} | Mar 2026 |
-| [Targeted Report on Stablecoins and Unhosted Wallets (FATF)](/files/AMLCFT Documents/Targeted_Report_on_Stablecoins_and_Unhosted_Wallets_FATF.pdf){:target="_blank"} | Mar 2026 |
+| [Horizon Scan on Artificial Intelligence and Deepfakes (FATF)](/files/AMLCFT Documents/horizon_scan_on_artificial_intelligence_and_deepfakes_fatf.pdf){:target="_blank"} | Mar 2026 |
+| [Targeted Report on Stablecoins and Unhosted Wallets (FATF)](/files/AMLCFT Documents/targeted_report_on_stablecoins_and_unhosted_wallets_fatf.pdf){:target="_blank"} | Mar 2026 |
 | [Call for Action in Accordance with February 2026 FATF Statement](https://rop.mlaw.gov.sg/february-2026-fatf-statement/){:target="_blank"} | Feb 2026 |
 | [Filing a Suspicious Transaction Report (STR) – English](https://youtu.be/YBnbZbDelbc/){:target="_blank"} | Nov 2025 |
 | [Filing a Suspicious Transaction Report (STR) – Mandarin](https://youtu.be/UQIM6a3Sdq8){:target="_blank"} | Nov 2025 |
