@@ -11,8 +11,6 @@ Forms
 
 [Template for Summary of Items Pawned](/files/Summaryofitemspawned(version2.0)(1Jun2012)(1).xls){:target="_blank"}(XLS, 60KB)
 
-[Template for Surpluses Unclaimed](/files/Surplusesunclaimed(version2.0)(1Jun2012).xls){:target="_blank"}(XLS, 229KB)
-
 [Manager Application Form](/files/Appointment of Manager Form/Application_Form_For_Appointment_of_Manager_dated_19_Feb_2024.pdf){:target="_blank"}(44KB)
 
 [Inter-Bank GIRO](/files/PB_03082017_GIROFORM(website_forms).pdf){:target="_blank"}(157KB)
