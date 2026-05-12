@@ -16,3 +16,4 @@ description: ""
 <p></p>
 <p>Thank you.</p>
 
+Registry of Pawnbrokers<br>Ministry of Law
