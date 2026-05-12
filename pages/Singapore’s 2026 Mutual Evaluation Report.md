@@ -8,7 +8,7 @@ description: ""
 <p></p>
 <p>The Financial Action Task Force (“<strong>FATF</strong>”) published a peer evaluation report of Singapore, which strongly affirmed that Singapore has a robust and effective framework and process to counter money-laundering (“<strong>ML</strong>”), terrorism financing (“<strong>TF</strong>”) and proliferation financing (“<strong>PF</strong>”).</p>
 <p></p>
-<p>You may refer to the press release jointly published by the Monetary Authority of Singapore (“<strong>MAS</strong>”), the Ministry of Home Affairs (“<strong>MHA</strong>”), and the Ministry of Finance (“<strong>MOF</strong>”).</p>
+<p>You may refer to the [press release](https://www.mas.gov.sg/news/media-releases/2026/singapore-has-a-robust-framework-for-combatting-financial-crime-according-to-international-body) jointly published by the Monetary Authority of Singapore (“<strong>MAS</strong>”), the Ministry of Home Affairs (“<strong>MHA</strong>”), and the Ministry of Finance (“<strong>MOF</strong>”).</p>
 <p></p>
 <p>The published report is available on the FATF website. The report has also been uploaded at the ROP website.</p>
 <p></p>
