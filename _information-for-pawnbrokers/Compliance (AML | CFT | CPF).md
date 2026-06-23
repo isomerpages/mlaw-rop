@@ -51,6 +51,7 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
+| [Call for Action in Accordance with June 2026 FATF Statement](https://rop.mlaw.gov.sg/june-2026-fatf-statement/){:target="_blank"} | Jun 2026 |
 | [Singapore’s 2026 Mutual Evaluation Report](https://rop.mlaw.gov.sg/singapore-s-2026-mutual-evaluation-report/){:target="_blank"} | May 2026 
 | [Singapore’s 2026 Mutual Evaluation Report (FATF)](/files/AMLCFT Documents/MER_Singapore_2026.pdf){:target="_blank"} | May 2026 |
 | [FATF Publications: Horizon Scan on AI and Deepfakes, Report on Stablecoins and Unhosted Wallets](https://rop.mlaw.gov.sg/fatf-publications-horizon-scan-on-ai-and-deepfakes-report-on-stablecoins-and-unhosted-wallets/){:target="_blank"} | Mar 2026 |
