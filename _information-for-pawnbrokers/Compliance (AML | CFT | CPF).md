@@ -7,7 +7,15 @@ description: ""
 Compliance
 ---  
 
-<a href="#Guidelines for Licensed Pawnbrokers">Guidelines for Licensed Pawnbrokers </a> | <a href="#Red Flag Indicators">Red Flag Indicators</a> |<a href="#AML/CFT/CPF Resources">AML/CFT/CPF Resources</a> 
+<a href="#Screening Function">Screening Function </a> |<a href="#Frequently Asked Questions">Frequently Asked Questions </a> |<a href="#Guidelines for Licensed Pawnbrokers">Guidelines for Licensed Pawnbrokers </a> | <a href="#Red Flag Indicators">Red Flag Indicators</a> |<a href="#AML/CFT/CPF Resources">AML/CFT/CPF Resources</a> 
+
+#### <a id="Screening Function"></a>Screening Function
+
+You may now access the screening function via the following <a target="_blank" href="https://eservices.mlaw.gov.sg/mypal/acd-esvc-romp-login">link</a>.
+
+#### <a id="Frequently Asked Questions"></a>Frequently Asked Questions
+
+We have collated a list of frequently asked questions on how to use the screening function. You may wish to refer to these FAQs in the <a target="_blank" href="https://ask.gov.sg/mlaw">FAQ section</a>.
 
 #### <a id="Guidelines for Licensed Pawnbrokers"></a>Guidelines for Licensed Pawnbrokers
 
