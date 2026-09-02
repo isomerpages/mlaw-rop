@@ -5,4 +5,4 @@ breadcrumb: List of Licensed Pawnbrokers In Singapore
 variant: tiptap
 ---
 <h2>List of Licensed Pawnbrokers in Singapore</h2>
-<p>Clickto view the complete list of licensed pawnbrokers in Singapore.</p>
+<p>Clickhereto view the complete list of licensed pawnbrokers in Singapore</p>
