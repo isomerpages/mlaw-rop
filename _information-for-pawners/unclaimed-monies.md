@@ -89,5 +89,5 @@ made to the claimant once the claim is verified.</p>
 </table>
 <p><strong>List of Unclaimed Monies</strong>
 </p>
-<p><a href="/files/Unclaimed_Monies_Mar26.pdf" rel="noopener nofollow" target="_blank">Pawners' Unredeemed Pledges</a>
+<p><a href="https://go.gov.sg/mlaw-rop-unclaimed-monies-list" rel="noopener nofollow" target="_blank">Pawners' Unredeemed Pledges</a>
 </p>
