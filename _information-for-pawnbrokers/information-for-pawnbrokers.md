@@ -34,7 +34,7 @@ business other than that of pawnbroking, unless approved by the Registrar;</p>
 <p>iii) the applicant must obtain adequate insurance against damage, theft
 or loss of articles that may be pawned with him;</p>
 <p>iv) the applicant must produce to the Registry of Pawnbrokers ("<strong>Registry</strong>")
-either a&nbsp;<a href="https://rop.mlaw.gov.sg/files/BGTemplate(revised2Apr2019).pdf" rel="noopener noreferrer nofollow" target="_blank">Banker's Guarantee</a>&nbsp;or
+either a&nbsp;<a href="https://go.gov.sg/mlaw-rop-bg-template" rel="noopener noreferrer nofollow" target="_blank">Banker's Guarantee</a>&nbsp;or
 Insurance Guarantee for a sum of $100,000 as security for the proper conduct
 of his business under the licence; and</p>
 <p>v) proposed pawnshop must have a paid-up capital of not less than $2,000,000
@@ -44,7 +44,7 @@ each additional pawnshop is $1,000,000).</p>
 <p>Besides the above criteria, a pawnbroker is also required to comply with
 other conditions which may be imposed by the Registrar from time to time.
 For example, all the operations of the pawnbroking business shall be computerised,
-and all the pawnbrokers shall participate in the&nbsp;<a href="https://rop.mlaw.gov.sg/files/PB_03082017_GIROFORM(website_forms).pdf" rel="noopener noreferrer nofollow" target="_blank">Interbank GIRO System (IBG)</a>&nbsp;and
+and all the pawnbrokers shall participate in the&nbsp;<a href="https://go.gov.sg/mlaw-rop-giro-form" rel="noopener noreferrer nofollow" target="_blank">Interbank GIRO System (IBG)</a>&nbsp;and
 other cashless mode of electronic receipts and payments.</p>
 <p></p>
 <p><strong>Procedure for Application</strong> 
@@ -56,7 +56,7 @@ Please note that a non-refundable application fee of $800.00/- will be
 collected when the application is submitted. You may also proceed to paste
 a ‘Notification of Application’ (one in English and one in Chinese), for
 a period of three weeks from the date placed, at the main entrance of the
-proposed pawnshop premises. A sample copy is available at our&nbsp;<a href="https://rop.mlaw.gov.sg/files/Notification%20of%20Application_display%20and%20advertisement.docx" rel="noopener noreferrer nofollow" target="_blank">website</a>.
+proposed pawnshop premises. A sample copy is available <a href="https://go.gov.sg/mlaw-rop-notification-application-display-advertisement" rel="noopener nofollow" target="_blank">here</a>.
 Thereafter, you will be required to send to the Registry a copy of the
 original Notice and photographs showing the notices pasted at the main
 entrance of the premises;</p>
@@ -72,7 +72,7 @@ business and the necessary agreement from the owner/lessor has been obtained;</p
 <p>v) Under the Pawnbrokers Rules 2015, you are to advertise, at your own
 expense, an advertisement in one English and one Chinese newspaper for
 two consecutive days. The Registry will inform you when you are supposed
-to advertise. A sample copy is available at our&nbsp;<a href="https://rop.mlaw.gov.sg/files/Notification%20of%20Application_display%20and%20advertisement.docx" rel="noopener noreferrer nofollow" target="_blank">website</a>.
+to advertise. A sample copy is available <a href="https://go.gov.sg/mlaw-rop-notification-application-display-advertisement" rel="noopener nofollow" target="_blank">here</a>.
 Thereafter, you will be required to send to the Registry a photograph of
 the advertisements published in the respective newspapers;</p>
 <p>vi) When required to do so, you are to permit the Registrar or any person
@@ -211,12 +211,12 @@ Number (“UEN”) in the bank transfer reference for payment traceability.</p>
 <br>Interested applicants are strongly advised to send in their applications
 by post or via online enquiry at <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener nofollow" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a>.
 The application should be accompanied by an elaboration on how the applicable
-<a href="https://rop.mlaw.gov.sg/information-for-pawnbrokers/relevant-laws-and-regulations/" rel="noopener noreferrer nofollow" target="_blank">licence conditions&nbsp;</a>would be met and supporting documents, similar
+<a href="https://go.gov.sg/mlaw-rop-licence-conditions" rel="noopener noreferrer nofollow" target="_blank">licence conditions&nbsp;</a>would be met and supporting documents, similar
 to the approach taken for the application for a second-hand goods dealing
 business to be conducted on the pawnbroking business premises.</p>
 <p></p>
 <p><strong>12. How do I make payment when I receive the Notice of Offer of Composition?</strong> 
-<br>Payment for the Notice of Offer of Composition can be made via our <a href="https://rop.mlaw.gov.sg/payment-of-composition-and-penalties/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
+<br>Payment for the Notice of Offer of Composition can be made via our <a href="https://go.gov.sg/mlaw-rop-composition-and-penalties-payments" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
 <p></p>
 <p><strong>13. What are the modes a pawnbroker may serve a notice of forfeiture?</strong> 
 <br>Please refer to this <a href="/files/ROP_Digitalisation_in_the_Pawnbroking_Sector_12Feb25.pdf" rel="noopener nofollow" target="_blank">infographic</a> for
@@ -224,7 +224,7 @@ the permitted modes of serving a notice of forfeiture by a pawnbroker.</p>
 <p></p>
 <p><strong>14. Are pawnbrokers allow to charge a pawner an administrative fee for a pawn ticket?</strong> 
 <br>Yes, pawnbrokers that offer cashless payment modes* may charge a pawner
-a fee of up to $2 for each pawn ticket issued. Please refer to this <a href="/files/ROP_Digitalisation_in_the_Pawnbroking_Sector_12Feb25.pdf" rel="noopener nofollow" target="_blank">infographic</a> and
+a fee of up to $2 for each pawn ticket issued. Please refer to this <a href="https://go.gov.sg/mlaw-rop-digitalisation-pawnbroking-sector" rel="noopener nofollow" target="_blank">infographic</a> and
 <a href="https://sso.agc.gov.sg/Act/PA2015?WholeDoc=1#Sc2-" rel="noopener noreferrer nofollow" target="_blank">Second Schedule under the Pawnbrokers Act 2015</a>for more information.</p>
 <p></p>
 <p>*Credit facilities (e.g. credit cards) are excluded.</p>
