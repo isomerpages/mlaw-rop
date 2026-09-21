@@ -64,14 +64,14 @@ width: 30%;
 | [Singapore’s 2026 Mutual Evaluation Report](https://rop.mlaw.gov.sg/singapore-s-2026-mutual-evaluation-report/){:target="_blank"} | May 2026 
 | [Singapore’s 2026 Mutual Evaluation Report (FATF)](https://isomer-user-content.by.gov.sg/473/eb54ea34-963e-41bf-86de-822f9ade2485/singapore%E2%80%99s_2026_mutual_evaluation_report_(fatf).pdf){:target="_blank"} | May 2026 |
 | [FATF Publications: Horizon Scan on AI and Deepfakes, Report on Stablecoins and Unhosted Wallets](https://rop.mlaw.gov.sg/fatf-publications-horizon-scan-on-ai-and-deepfakes-report-on-stablecoins-and-unhosted-wallets/){:target="_blank"} | Mar 2026 |
-| [Horizon Scan on Artificial Intelligence and Deepfakes (FATF)](/files/AMLCFT Documents/horizon_scan_on_artificial_intelligence_and_deepfakes_fatf.pdf){:target="_blank"} | Mar 2026 |
-| [Targeted Report on Stablecoins and Unhosted Wallets (FATF)](/files/AMLCFT Documents/targeted_report_on_stablecoins_and_unhosted_wallets_fatf.pdf){:target="_blank"} | Mar 2026 |
+| [Horizon Scan on Artificial Intelligence and Deepfakes (FATF)](https://isomer-user-content.by.gov.sg/473/072d4de8-4546-48e5-8124-3520282f4244/Horizon_Scan_AI_and_Deepfakes.pdf){:target="_blank"} | Mar 2026 |
+| [Targeted Report on Stablecoins and Unhosted Wallets (FATF)](https://isomer-user-content.by.gov.sg/473/498a8e19-18c1-451d-9113-ce2bf6ef2ea2/targeted_report_on_stablecoins_and_unhosted_wallets.pdf){:target="_blank"} | Mar 2026 |
 | [Call for Action in Accordance with February 2026 FATF Statement](https://rop.mlaw.gov.sg/february-2026-fatf-statement/){:target="_blank"} | Feb 2026 |
 | [Filing a Suspicious Transaction Report (STR) – English](https://youtu.be/YBnbZbDelbc/){:target="_blank"} | Nov 2025 |
 | [Filing a Suspicious Transaction Report (STR) – Mandarin](https://youtu.be/UQIM6a3Sdq8){:target="_blank"} | Nov 2025 |
 | [Call for Action in Accordance with October 2025 FATF Statement](https://rop.mlaw.gov.sg/october-2025-fatf-statement/){:target="_blank"} | Oct 2025 |
 | [Call for Action in Accordance with June 2025 FATF Statement](https://rop.mlaw.gov.sg/june-2025-fatf-statement/){:target="_blank"} | Jun 2025 |
-| [Countering Proliferation Financing Industry Best Practice Paper](/files/AMLCFT Documents/CPF_Best_Practice_Paper.pdf){:target="_blank"} | May 2025 |
+| [Countering Proliferation Financing Industry Best Practice Paper](https://isomer-user-content.by.gov.sg/473/a5cd7920-c296-4d42-bea4-2ec09f076630/CPF_Best_Practice_Paper_2025.pdf){:target="_blank"} | May 2025 |
 |[Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment, and Ongoing Monitoring](/files/Additional_Guidance_Pawnbroker.pdf){:target="_blank"} | Mar 2025 |
 | [Call for Action in Accordance with February 2025 FATF Statement](https://rop.mlaw.gov.sg/february-2025-fatf-statement/){:target="_blank"} | Mar 2025 |
 | [Information and Guidance on Countering the Financing of Terrorism](https://acd.mlaw.gov.sg/files/information and guidance on countering the financing of terrorism.pdf){:target="_blank"} | Feb 2025 |
