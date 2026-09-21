@@ -74,13 +74,13 @@ width: 30%;
 | [Countering Proliferation Financing Industry Best Practice Paper](https://isomer-user-content.by.gov.sg/473/a5cd7920-c296-4d42-bea4-2ec09f076630/CPF_Best_Practice_Paper_2025.pdf){:target="_blank"} | May 2025 |
 |[Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment, and Ongoing Monitoring](/files/Additional_Guidance_Pawnbroker.pdf){:target="_blank"} | Mar 2025 |
 | [Call for Action in Accordance with February 2025 FATF Statement](https://rop.mlaw.gov.sg/february-2025-fatf-statement/){:target="_blank"} | Mar 2025 |
-| [Information and Guidance on Countering the Financing of Terrorism](https://acd.mlaw.gov.sg/files/information and guidance on countering the financing of terrorism.pdf){:target="_blank"} | Feb 2025 |
-| [Singapore's Law Enforcement Strategy to Combat Money Laundering](/files/AMLCFT Documents/Singapore_Law_Enforcement_Strategy_to_Combat_ML.pdf){:target="_blank"} | Nov 2024 |
-| [Singapore National Anti-Money Laundering Strategy](/files/AMLCFT Documents/Singapore_National_AML_Strategy.pdf){:target="_blank"} | Nov 2024 |
+| [Information and Guidance on Countering the Financing of Terrorism](https://isomer-user-content.by.gov.sg/473/7101af30-0ee4-4dfb-89a7-2ebb65e7cd30/information%20and%20guidance%20on%20countering%20the%20financing%20of%20terrorism.pdf){:target="_blank"} | Feb 2025 |
+| [Singapore's Law Enforcement Strategy to Combat Money Laundering](https://isomer-user-content.by.gov.sg/473/64b5ead8-e1c1-4ef2-917f-291e376899aa/Singapore_Law_Enforcement_Strategy_to_Combat_Money_Laundering.pdf){:target="_blank"} | Nov 2024 |
+| [Singapore National Anti-Money Laundering Strategy](https://isomer-user-content.by.gov.sg/473/413379e6-03d3-4c2f-b119-c8b92d13ccbe/Singapore_National_Anti_Money_Laundering_Strategy.pdf){:target="_blank"} | Nov 2024 |
 | [High-risk and other monitored jurisdictions (FATF)](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html){:target="_blank"} | Oct 2024 |
 | [Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)](https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html){:target="_blank"} | Oct 2024 |
 | [MinLaw Industry Compliance and Engagement 2024 (MICE 2024)](https://isomer-user-content.by.gov.sg/473/0aa95407-8f5c-4788-956b-eebf4e861d7b/MICE_2024.pdf){:target="_blank"} | Aug 2024 |
-| [National Strategy for Countering the Financing of Terrorism (NSCFT)](/files/AMLCFT Documents/NSCFT_2024.pdf){:target="_blank"} | Jul 2024 |
+| [National Strategy for Countering the Financing of Terrorism (NSCFT)](https://isomer-user-content.by.gov.sg/473/7d1eddd2-0f4c-42d4-bb27-84bb0f060565/National_Strategy_for_Countering_the_Financing_of_Terrorism_2024.pdf){:target="_blank"} | Jul 2024 |
 | [National Asset Recovery Strategy (NARS) 2024](https://isomer-user-content.by.gov.sg/473/5f372be1-5a88-406a-93b6-d473cd9b98f0/National_Asset_Recovery_Strategy_2024.pdf){:target="_blank"} | Jun 2024 |
 | [National Strategy for Countering the Financing of Terrorism (CFT)](https://isomer-user-content.by.gov.sg/473/7d1eddd2-0f4c-42d4-bb27-84bb0f060565/National_Strategy_for_Countering_the_Financing_of_Terrorism_2024.pdf){:target="_blank"} |  Oct 2022 |
 | [Money Laundering from Environmental Crime](https://www.fatf-gafi.org/media/fatf/documents/reports/Money-Laundering-from-Environmental-Crime.pdf){:target="_blank"} | Jul 2021 |
@@ -115,13 +115,13 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
-| [Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements](/files/AMLCFT Documents/MLTF_RA_Legal_Arrangements.pdf){:target="_blank"} | Nov 2024 |
-| [Money Laundering and Terrorism Financing Risk Assessment of Legal Persons](/files/AMLCFT Documents/MLTF_RA_Legal_Persons.pdf){:target="_blank"} | Nov 2024 |
-| [Proliferation Financing (PF) National Risk Assessment and Counter-PF Strategy](/files/AMLCFT Documents/PF_NRA_Counter_PF_Strategy.pdf){:target="_blank"} | Nov 2024 |
-| [Virtual Assets Risk Assessment](/files/AMLCFT Documents/Virtual_Assets_RA.pdf){:target="_blank"} | Nov 2024 |
-| [The Terrorism Financing National Risk Assessment (TF NRA) 2024)](/files/AMLCFT Documents/TFNRA_2024.pdf){:target="_blank"} | Jul 2024 |
-| [Money Laundering National Risk Assessment (ML NRA) Report 2024)](/files/AMLCFT Documents/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jun 2024 |
-| [Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf){:target="_blank"} | May 2024 |
+| [Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements](https://isomer-user-content.by.gov.sg/473/197db63f-6ece-4dc9-96ac-10edeae2ca0f/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Arrangements.pdf){:target="_blank"} | Nov 2024 |
+| [Money Laundering and Terrorism Financing Risk Assessment of Legal Persons](https://isomer-user-content.by.gov.sg/473/f2d76ad8-f27c-4e58-a576-19a25e7fd894/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Persons.pdf){:target="_blank"} | Nov 2024 |
+| [Proliferation Financing (PF) National Risk Assessment and Counter-PF Strategy](https://isomer-user-content.by.gov.sg/473/f5561b0a-60a2-45b1-bf8d-05e74c4944d1/Proliferation_Financing_National_Risk_Assessment_and_Counter_PF_Strategy.pdf){:target="_blank"} | Nov 2024 |
+| [Virtual Assets Risk Assessment](https://isomer-user-content.by.gov.sg/473/0222283a-9cd0-4b1b-a351-4e25d921de6f/Virtual_Assets_Risk_Assessment.pdf){:target="_blank"} | Nov 2024 |
+| [The Terrorism Financing National Risk Assessment (TF NRA) 2024)](https://isomer-user-content.by.gov.sg/473/b7dfbc4a-c9e8-4660-912b-7528f39cb247/Terrorism_Financing_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jul 2024 |
+| [Money Laundering National Risk Assessment (ML NRA) Report 2024)](https://isomer-user-content.by.gov.sg/473/d06d063a-6b8e-4b87-8848-633b98a947b4/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jun 2024 |
+| [Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)](https://isomer-user-content.by.gov.sg/473/479e3c9b-7f80-4ac3-896f-3fbeadd7f47d/Env_Crimes_ML_NRA___Final.pdf){:target="_blank"} | May 2024 |
 | [Singapore Terrorism Threat Assessment Report 2022](https://isomer-user-content.by.gov.sg/473/aedea5d7-71ca-4bfe-89b1-d9eb1bbfb6f6/singapore-terrorism-threat-assessment-report-2022.pdf){:target="_blank"} | Aug 2022 |
 | [Terrorism Financing National Risk  Assessment 2020](https://isomer-user-content.by.gov.sg/473/55f4cbab-a121-4a94-977d-ea5678495190/Terrorism%20Financing%20National%20Risk%20Assessment%202020.pdf){:target="_blank"} | Jan 2021 |
 | [Singapore National Risk Assessment Report 2013](https://isomer-user-content.by.gov.sg/473/ada1e643-7223-431a-ad34-9e730b061ba2/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"} | Apr 2019 |
