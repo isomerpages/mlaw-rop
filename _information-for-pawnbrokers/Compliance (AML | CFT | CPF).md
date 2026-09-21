@@ -38,7 +38,7 @@ The IMC-TD acts as Singapore's authority relating to the designation of terroris
 
 On MHA’s website on <a target="_blank" href="https://www.mha.gov.sg/what-we-do/managing-security-threats/countering-the-financing-of-terrorism">IMC-TD</a>, you will find information on counter terrorism financing legislation, IMC-TD’s process of designation, and relevant news articles.
 
-To find out more about your obligations as a licensed pawnbroker on countering terrorism financing, please click <a target="_blank" href="https://acd.mlaw.gov.sg/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf">here</a>. 
+To find out more about your obligations as a licensed pawnbroker on countering terrorism financing, please click <a target="_blank" href="https://isomer-user-content.by.gov.sg/473/3390412c-c924-4204-85a9-f43f33eda5d9/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf">here</a>. 
 
 **3. AML/CFT/CPF Resources**
 
