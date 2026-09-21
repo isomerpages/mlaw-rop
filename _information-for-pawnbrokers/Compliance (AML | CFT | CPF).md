@@ -79,10 +79,10 @@ width: 30%;
 | [Singapore National Anti-Money Laundering Strategy](/files/AMLCFT Documents/Singapore_National_AML_Strategy.pdf){:target="_blank"} | Nov 2024 |
 | [High-risk and other monitored jurisdictions (FATF)](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html){:target="_blank"} | Oct 2024 |
 | [Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)](https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html){:target="_blank"} | Oct 2024 |
-| [MinLaw Industry Compliance and Engagement 2024 (MICE 2024)](https://acd.mlaw.gov.sg/files/MICE_2024.pdf){:target="_blank"} | Aug 2024 |
+| [MinLaw Industry Compliance and Engagement 2024 (MICE 2024)](https://isomer-user-content.by.gov.sg/473/0aa95407-8f5c-4788-956b-eebf4e861d7b/MICE_2024.pdf){:target="_blank"} | Aug 2024 |
 | [National Strategy for Countering the Financing of Terrorism (NSCFT)](/files/AMLCFT Documents/NSCFT_2024.pdf){:target="_blank"} | Jul 2024 |
-| [National Asset Recovery Strategy (NARS) 2024](https://acd.mlaw.gov.sg/files/National_Asset_Recovery_Strategy_2024.pdf){:target="_blank"} | Jun 2024 |
-| [National Strategy for Countering the Financing of Terrorism (CFT)](https://acd.mlaw.gov.sg/files/National Strategy for Countering the Financing of Terrorism.pdf){:target="_blank"} |  Oct 2022 |
+| [National Asset Recovery Strategy (NARS) 2024](https://isomer-user-content.by.gov.sg/473/5f372be1-5a88-406a-93b6-d473cd9b98f0/National_Asset_Recovery_Strategy_2024.pdf){:target="_blank"} | Jun 2024 |
+| [National Strategy for Countering the Financing of Terrorism (CFT)](https://isomer-user-content.by.gov.sg/473/7d1eddd2-0f4c-42d4-bb27-84bb0f060565/National_Strategy_for_Countering_the_Financing_of_Terrorism_2024.pdf){:target="_blank"} |  Oct 2022 |
 | [Money Laundering from Environmental Crime](https://www.fatf-gafi.org/media/fatf/documents/reports/Money-Laundering-from-Environmental-Crime.pdf){:target="_blank"} | Jul 2021 |
 | [Guidance on Proliferation Financing Risk Assessment and Mitigation](https://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-Proliferation-Financing-Risk-Assessment-Mitigation.pdf){:target="_blank"} | Jun 2021 |
 | [Trade-Based Money Laundering - Trends and Developments](http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-Laundering-Trends-and-Developments.pdf){:target="_blank"} | Dec 2020 |
