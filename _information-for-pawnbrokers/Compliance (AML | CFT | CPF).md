@@ -30,7 +30,7 @@ Click [here](/files/list of red flag indicators.pdf){:target="blank"} to view th
 **1. Monetary Authority of Singapore's ("MAS") website - Lists of Designated Individuals and Entities**
 
 MAS publishes <a target="_blank" href="https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities">lists</a> of individuals and entities designated under the United Nations Act ("**UN Act**") and the Terrorism (Suppression of Financing) Act ("**TSOFA**"). Licensed pawnbrokers should <a target="_blank" href="https://www.mas.gov.sg/subscription-services">subscribe</a> to the MAS mailing list to receive updated lists of designated individuals and entities. Licensed pawnbrokers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
-You may refer to the <a target="_blank" href="https://acd.mlaw.gov.sg/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf">MAS Website Subscriber Services Guide</a> for a step-by-step guide to the subscription process.<br>
+You may refer to the <a target="_blank" href="https://isomer-user-content.by.gov.sg/473/7a27cb65-8bdc-423c-bc70-6845262b0ffa/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf">MAS Website Subscriber Services Guide</a> for a step-by-step guide to the subscription process.<br>
 
 **2. Inter-Ministry Committee on Terrorist Designation ("IMC-TD")**
 
