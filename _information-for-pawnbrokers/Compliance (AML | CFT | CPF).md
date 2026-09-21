@@ -62,7 +62,7 @@ width: 30%;
 | [MinLaw Industry Compliance and Engagement 2026 (MICE 2026)](https://isomer-user-content.by.gov.sg/473/f624e287-9661-4107-bb2b-dc008cd7b216/MICE_2026.pdf){:target="_blank"} | Jul 2026 |
 | [Call for Action in Accordance with June 2026 FATF Statement](https://rop.mlaw.gov.sg/june-2026-fatf-statement/){:target="_blank"} | Jun 2026 |
 | [Singapore’s 2026 Mutual Evaluation Report](https://rop.mlaw.gov.sg/singapore-s-2026-mutual-evaluation-report/){:target="_blank"} | May 2026 
-| [Singapore’s 2026 Mutual Evaluation Report (FATF)](/files/AMLCFT Documents/MER_Singapore_2026.pdf){:target="_blank"} | May 2026 |
+| [Singapore’s 2026 Mutual Evaluation Report (FATF)](https://isomer-user-content.by.gov.sg/473/eb54ea34-963e-41bf-86de-822f9ade2485/singapore%E2%80%99s_2026_mutual_evaluation_report_(fatf).pdf){:target="_blank"} | May 2026 |
 | [FATF Publications: Horizon Scan on AI and Deepfakes, Report on Stablecoins and Unhosted Wallets](https://rop.mlaw.gov.sg/fatf-publications-horizon-scan-on-ai-and-deepfakes-report-on-stablecoins-and-unhosted-wallets/){:target="_blank"} | Mar 2026 |
 | [Horizon Scan on Artificial Intelligence and Deepfakes (FATF)](/files/AMLCFT Documents/horizon_scan_on_artificial_intelligence_and_deepfakes_fatf.pdf){:target="_blank"} | Mar 2026 |
 | [Targeted Report on Stablecoins and Unhosted Wallets (FATF)](/files/AMLCFT Documents/targeted_report_on_stablecoins_and_unhosted_wallets_fatf.pdf){:target="_blank"} | Mar 2026 |
