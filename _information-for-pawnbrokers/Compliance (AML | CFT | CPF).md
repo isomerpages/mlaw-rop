@@ -122,6 +122,6 @@ width: 30%;
 | [The Terrorism Financing National Risk Assessment (TF NRA) 2024)](/files/AMLCFT Documents/TFNRA_2024.pdf){:target="_blank"} | Jul 2024 |
 | [Money Laundering National Risk Assessment (ML NRA) Report 2024)](/files/AMLCFT Documents/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jun 2024 |
 | [Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf){:target="_blank"} | May 2024 |
-| [Singapore Terrorism Threat Assessment Report 2022](https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf){:target="_blank"} | Aug 2022 |
-| [Terrorism Financing National Risk  Assessment 2020](https://acd.mlaw.gov.sg/images/Terrorism Financing National Risk Assessment 2020.pdf){:target="_blank"} | Jan 2021 |
-| [Singapore National Risk Assessment Report 2013](https://acd.mlaw.gov.sg/images/Singapore NRA Report 2013_24032015.pdf){:target="_blank"} | Apr 2019 |
+| [Singapore Terrorism Threat Assessment Report 2022](https://isomer-user-content.by.gov.sg/473/aedea5d7-71ca-4bfe-89b1-d9eb1bbfb6f6/singapore-terrorism-threat-assessment-report-2022.pdf){:target="_blank"} | Aug 2022 |
+| [Terrorism Financing National Risk  Assessment 2020](https://isomer-user-content.by.gov.sg/473/55f4cbab-a121-4a94-977d-ea5678495190/Terrorism%20Financing%20National%20Risk%20Assessment%202020.pdf){:target="_blank"} | Jan 2021 |
+| [Singapore National Risk Assessment Report 2013](https://isomer-user-content.by.gov.sg/473/ada1e643-7223-431a-ad34-9e730b061ba2/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"} | Apr 2019 |
