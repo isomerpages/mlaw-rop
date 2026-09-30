@@ -23,8 +23,8 @@ yourself with the provisions of the <a href="https://sso.agc.gov.sg/Act/PA2015?W
 </p>
 <p><strong>4. How do I apply for a pawnbroker’s licence?</strong>
 </p>
-<p>You may submit your application via <a href="https://www.gobusiness.gov.sg/browse-all-licences/ministry-of-law-(minlaw)/pawnbroker's-licence" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a> and
-you may wish to note the following:</p>
+<p>You may submit your application via <a href="https://www.gobusiness.gov.sg/" rel="noopener nofollow" target="_blank">GoBusiness</a> and you may wish to
+note the following:</p>
 <p><strong>Pawnbroker’s Licence Application</strong>
 <br>The following are the criteria for the grant of a pawnbroker's licence:</p>
 <p>i) the applicant must be of good character and a fit and proper person
@@ -147,8 +147,59 @@ after receiving the approval from the Registry.</p>
 <p></p>
 <p>For changes relating to (v) and (vi), you are required to notify the Registry
 by submitting an online application.</p>
-<p>A copy of the online application form for the above updates/changes is
-available&nbsp;<a href="https://www.gobusiness.gov.sg/licences" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>A copy of the online application form for the above updates/changes [except
+for (iii)] is available&nbsp;<a href="https://www.gobusiness.gov.sg/licences" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For updates to (iii), that is, for any change in substantial shareholdings
+or substantial shareholders of licensee, please write to the Registry via
+<a href="https://go.gov.sg/contactminlaw" rel="noopener noreferrer nofollow" target="_blank">Contact Us @ OneMinLaw</a>with the following information and supporting
+documents:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>A clear copy of an up-to-date identification card of the transferor and
+the transferee (if applicable).</p>
+</li>
+<li>
+<p>If transferor is deceased, please provide the Letter of Administration/Grant
+of Probate to carry out the proposed transfer.</p>
+</li>
+<li>
+<p>Latest ACRA profile of the licensee/company.</p>
+</li>
+<li>
+<p>To provide the details of the transfer of shares in the format <a href="https://go.gov.sg/rop-transfer-shares-template" rel="noopener nofollow" target="_blank">here</a>
+</p>
+</li>
+<li>
+<p>Reasons for the allotment of new shares/transfer in shares.</p>
+</li>
+<li>
+<p>The relationship between the transferor and the transferee.</p>
+</li>
+<li>
+<p>Whether the transferee will become a substantial shareholder of a licensee
+(through an increase in the person’s shareholding) after the transfer of
+shares.</p>
+</li>
+<li>
+<p>If the transferee is already a substantial shareholder of the licensee,
+whether his/her substantial shareholding will increase after the transfer
+of shares.&nbsp;Please state the increase in substantial shareholding after
+the transfer of shares.</p>
+</li>
+</ol>
+<p></p>
+<p>If your reply to point 7 <strong><u>or</u></strong> 8 is “Yes”, please submit
+an application to the Registrar of Pawnbrokers to seek approval for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>the person (transferee) to become a substantial shareholder of the licensee; <strong><u>or</u></strong>
+</p>
+</li>
+<li>
+<p>the proposed increase in the substantial shareholding of the person (transferee)
+in the licensee.</p>
+</li>
+</ul>
 <p></p>
 <p><strong>8. How do I renew my pawnbroker’s licence?</strong>
 </p>
@@ -195,7 +246,7 @@ to each type of pawnbroking activity for which waiver is sought; and</p>
 <br>The URA Centre East Wing</p>
 <p>Singapore 069118</p>
 <p>b) Online submission via:</p>
-<p><a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener nofollow" target="_blank">Contact Us @ OneMinLaw</a>
+<p><a href="https://go.gov.sg/contactminlaw" rel="noopener nofollow" target="_blank">Contact Us @ OneMinLaw</a>
 </p>
 <p>Please note that a non-refundable application fee of $600/- shall apply
 regardless of the outcome of the application. Payment of the application
@@ -209,7 +260,7 @@ Number (“UEN”) in the bank transfer reference for payment traceability.</p>
 <p></p>
 <p><strong>11. Can I sell new jewellery in Pawnshops? </strong>
 <br>Interested applicants are strongly advised to send in their applications
-by post or via online enquiry at <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener nofollow" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a>.
+by post or via online enquiry at <a href="https://go.gov.sg/contactminlaw" rel="noopener nofollow" target="_blank">https://go.gov.sg/contactminlaw</a>.
 The application should be accompanied by an elaboration on how the applicable
 <a href="https://go.gov.sg/mlaw-rop-licence-conditions" rel="noopener noreferrer nofollow" target="_blank">licence conditions&nbsp;</a>would be met and supporting documents, similar
 to the approach taken for the application for a second-hand goods dealing
