@@ -11,7 +11,9 @@ Compliance
 
 #### <a id="Screening Function"></a>Screening Function
 
-You may now access the screening function via the following <a target="_blank" href="https://eservices.mlaw.gov.sg/mypal/acd-esvc-romp-login">link</a>.
+You may now access the screening function via the following <a target="_blank" href="https://eservices.mlaw.gov.sg/mypal/acd-esvc-romp-login">link</a>. Please refer to the guidance video below on how to use the screening function in myPal.
+
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gHw3TztU2SU?si=-it0gokzR9epcXhq" height="315" width="560"></iframe>
 
 #### <a id="Frequently Asked Questions"></a>Frequently Asked Questions
 
