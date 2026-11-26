@@ -16,7 +16,8 @@ please contact the Singapore Pawnbrokers' Association at 6749 1200 and/or
 email <a href="mailto:enquiry@singpawn.org" rel="noopener noreferrer nofollow" target="_blank"><u>enquiry@singpawn.org</u></a>.</p>
 </li>
 <li>
-<p>Submission of<strong> </strong><a href="https://form.gov.sg/5fd6e9961e9fb00011952390" rel="noopener noreferrer nofollow" target="_blank">First Information Report</a>.</p>
+<p>Submission of<strong> </strong><a href="https://form.gov.sg/5fd6e9961e9fb00011952390" rel="noopener noreferrer nofollow" target="_blank">First Information Report</a> for
+other matters.</p>
 </li>
 </ul>
 <p></p>
