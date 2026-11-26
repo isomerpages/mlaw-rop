@@ -8,14 +8,16 @@ description: ""
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>For inquiries or assistance regarding (i) fees; (ii) interest charges;
-or (iii) notice of forfeiture(s) concerning existing loans with licensed
-pawnbrokers, please contact the Singapore Pawnbrokers' Association at 6749
-1200 and/or email <a href="mailto:enquiry@singpawn.org" rel="noopener noreferrer nofollow" target="_blank">enquiry@singpawn.org</a>.</p>
+<p>For inquiries or assistance regarding (i) pawn contractual terms, such
+as agreed promotional rates; (ii) pawnbrokers' obligations, such as explaining
+pawn contractual terms and conditions or notices of forfeiture(s); or (iii)
+clarifications on pawn contractual terms, computation of fees and profit,
+please contact the Singapore Pawnbrokers' Association at 6749 1200 and/or
+email <a href="mailto:enquiry@singpawn.org" rel="noopener noreferrer nofollow" target="_blank"><u>enquiry@singpawn.org</u></a>.</p>
 </li>
 <li>
-<p>Submission of<strong> </strong><a href="https://form.gov.sg/5fd6e9961e9fb00011952390" rel="noopener noreferrer nofollow" target="_blank">First Information Report</a>
-</p>
+<p>Submission of<strong> </strong><a href="https://form.gov.sg/5fd6e9961e9fb00011952390" rel="noopener noreferrer nofollow" target="_blank">First Information Report</a> for
+other matters.</p>
 </li>
 </ul>
 <p></p>
